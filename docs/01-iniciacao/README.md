@@ -49,6 +49,8 @@
 > Nesta seção, deve ser descrito apenas o problema e seu contexto.
 > Soluções para o problema devem ser descritas na seção correspondente.
 
+Diversas empresas do ramo de comércio alimentício, como restaurantes, lanchonetes e até mesmo bares; enfrentam problemas com a constante necessidade de repor seus estoques e dispensas. Tal dificuldade está no fato de praticamente 100% das vezes o controle dos estoques e despensas ser realizado de forma manual, com anotações físicas em cadernos e/ou cadernetas, ou através da utilização de planilhas que, mesmo possuindo algumas fórmulas para auxiliar na gestão, são incapazes de se atualizarem sozinhas; sendo necessária a mão de obra humana e realização constante de inventários e conferências para verificar a atual quantidade de itens, quais estão próximos do vencimento e até mesmo para montar uma lista de compras com produto por produto que deverá ser reposto. Como o processo acaba sendo totalmente dependente de conferência manual, o processo pode acabar tendo falhas humanas envolvendo esquecimento de contagem de algum produto, contagem errônea, "perda de tempo" dependendo da quantidade de produtos a serem contados, entre diversas outras. 
+
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
