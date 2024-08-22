@@ -1,6 +1,6 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# Smarty Panty
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
