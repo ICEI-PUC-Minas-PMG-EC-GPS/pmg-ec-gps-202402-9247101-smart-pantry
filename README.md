@@ -1,6 +1,6 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Smarty Panty
+# Smarty Pantry
 
 O projeto "Smart Pantry: Sistema de Inventário Inteligente para Despensas e Estoques de Estabelecimentos Alimentícios" propõe a criação de uma solução integrada para a gestão de alimentos armazenados em ambientes comerciais do ramo alimentício (Restaurantes, lanchonetes, etc), como despensas e estoques. Combinando um aplicativo mobile com dispositivos físicos equipados com sensores de peso e tecnologia RFID, o sistema monitora em tempo real a quantidade e o estado dos itens estocados, fornecendo uma visão clara e organizada do inventário. Além de facilitar a organização das reposições de estoque, o Smart Pantry visa minimizar o desperdício de alimentos ao alertar os usuários sobre produtos próximos da data de validade ou que precisam ser repostos.
 
