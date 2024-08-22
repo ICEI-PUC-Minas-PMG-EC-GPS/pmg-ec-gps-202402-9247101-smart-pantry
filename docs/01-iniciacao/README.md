@@ -41,19 +41,26 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Diversas empresas do ramo de comércio alimentício, como restaurantes, lanchonetes e até mesmo bares; enfrentam problemas com a constante necessidade de repor seus estoques e dispensas. Tal dificuldade está no fato de praticamente 100% das vezes o controle dos estoques e despensas ser realizado de forma manual, com anotações físicas em cadernos e/ou cadernetas, ou através da utilização de planilhas que, mesmo possuindo algumas fórmulas para auxiliar na gestão, são incapazes de se atualizarem sozinhas; sendo necessária a mão de obra humana e realização constante de inventários e conferências para verificar a atual quantidade de itens, quais estão próximos do vencimento e até mesmo para montar uma lista de compras com produto por produto que deverá ser reposto. Como o processo acaba sendo totalmente dependente de conferência manual, o processo pode acabar tendo falhas humanas envolvendo esquecimento de contagem de algum produto, contagem errônea, "perda de tempo" dependendo da quantidade de produtos a serem contados, entre diversas outras.
 
 > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
 > Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
 > Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
-
-Diversas empresas do ramo de comércio alimentício, como restaurantes, lanchonetes e até mesmo bares; enfrentam problemas com a constante necessidade de repor seus estoques e dispensas. Tal dificuldade está no fato de praticamente 100% das vezes o controle dos estoques e despensas ser realizado de forma manual, com anotações físicas em cadernos e/ou cadernetas, ou através da utilização de planilhas que, mesmo possuindo algumas fórmulas para auxiliar na gestão, são incapazes de se atualizarem sozinhas; sendo necessária a mão de obra humana e realização constante de inventários e conferências para verificar a atual quantidade de itens, quais estão próximos do vencimento e até mesmo para montar uma lista de compras com produto por produto que deverá ser reposto. Como o processo acaba sendo totalmente dependente de conferência manual, o processo pode acabar tendo falhas humanas envolvendo esquecimento de contagem de algum produto, contagem errônea, "perda de tempo" dependendo da quantidade de produtos a serem contados, entre diversas outras. 
+> Soluções para o problema devem ser descritas na seção correspondente. 
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivo Geral:
+
+Desenvolver um sistema integrado e inteligente para a gestão automatizada de estoques alimentícios em estabelecimentos comerciais, visando melhorar a eficiência operacional, reduzir o desperdício de alimentos e otimizar o processo de reposição de produtos.
+
+Objetivos Específicos:
+
+1. Implementar um sistema de monitoramento em tempo real utilizando sensores de peso e tecnologia RFID para rastrear a quantidade e o estado dos itens armazenados.
+2. Criar uma interface mobile intuitiva que permita a visualização do inventário, envio de alertas sobre itens próximos ao vencimento e a geração automática de listas de compras com base nas necessidades de reposição.
+3. Desenvolver funcionalidades de automação, como a atualização automática do inventário e o envio de notificações personalizadas, para melhorar a organização e eficiência na gestão de estoques.
+4. Integrar o sistema com assistentes virtuais para permitir o controle do inventário por comandos de voz, além de implementar uma gestão de acesso que permita diferentes níveis de controle aos funcionários do estabelecimento.
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
