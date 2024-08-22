@@ -11,8 +11,6 @@ O sistema também oferece funcionalidades avançadas como a atualização autom�
 * [Igor Gomes Silva Rattes](https://github.com/IgorRattes)
 * [Samara Hellen Ferreira Chaves](https://github.com/samarahellen)
 * [Chrystian Henrique Fonseca de Souza)](https://github.com/ChrysH2000)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável
 
