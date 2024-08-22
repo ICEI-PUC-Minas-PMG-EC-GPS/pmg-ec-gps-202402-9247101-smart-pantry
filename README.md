@@ -9,7 +9,7 @@
 ## Alunos integrantes da equipe
 
 * [Igor Gomes Silva Rattes](https://github.com/IgorRattes)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
+* [Samara Hellen Ferreira Chaves](https://github.com/samarahellen)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
 * [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
