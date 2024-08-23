@@ -10,7 +10,7 @@ O sistema também oferece funcionalidades avançadas como a atualização autom�
 
 * [Igor Gomes Silva Rattes](https://github.com/IgorRattes)
 * [Samara Hellen Ferreira Chaves](https://github.com/samarahellen)
-* [Chrystian Henrique Fonseca de Souza)](https://github.com/ChrysH2000)
+* [Chrystian Henrique Fonseca de Souza](https://github.com/ChrysH2000)
 
 ## Professor responsável
 
