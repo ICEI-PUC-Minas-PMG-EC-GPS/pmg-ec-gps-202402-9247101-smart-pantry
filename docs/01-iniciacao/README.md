@@ -111,16 +111,19 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ## Identificação das Partes Interessadas
 
-| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
-|-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+| Nome              | Posição / Cargo                      | Papel Projeto             | E-mail                          | Telefone       |
+|-------------------|--------------------------------------|---------------------------|---------------------------------|----------------|
+| Igor Rattes       |  Dev Pleno                           | Desenvolvedor             | rattes.igor@empresa.com         | (31)98563-2535 |
+| Chrystian Fonseca |  Dev Sênior                          | Desenvolvedor             | fonseca.Chrys@empresa.com       | (31)98158-1589 |
+| Samara Chaves     |  Dev Pleno                           | Desenvolvedora            | chaves.samara@empresa.com       | (31)98121-1658 |
+| João Silva        |  Gerente de TI                       | Gerente de Projeto	       | joao.silva@empresa.com          | (11)99999-0000 |
+| Maria Fernandes   |  Analista de Sistemas                | Analista de Requisitos    | maria.fernandes@empresa.com     | (21)98888-1111 |
+| Renata Lima	      |  Especialista em sistemas embarcados | Desenvolvedor de Firmware | renata.lima@empresa.com         | (51)99555-4444 |
+| Felipe Ramos      |  Analista de Testes                  | Testador de Sistema       | felipe.ramos@empresa.com        | (61)99444-5555 |
+| Júlia Andrade     |  Product Owner                       | Representante do Cliente  | julia.andrade@empresa.com       | (71)99333-6666 |
+| Roberto Teixeira  |  Gerente de Operações (Cliente)      | Usuário Final             | roberto.teixeira@cliente.com    | (81)98222-7777 |
+| Vanessa Oliveira  |  Chefe de Cozinha (Cliente)          | Usuária Final             | vanessa.oliveira@cliente.com    | (91)99111-8888 |
+| Leonardo Santos   | Consultor de Sustentabilidade        | Consultor Externo         | leonardo.santos@consultoria.com | (31)98000-9999 |
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
@@ -133,16 +136,19 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ## Avaliação das Partes Interessadas
 
-| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
-|-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+| Nome              | Expectativa no Projeto                                                     | Influência | Importância / Poder | Apoio    | Observações                             |
+|-------------------|----------------------------------------------------------------------------|------------|---------------------|----------|-----------------------------------------|
+| Igor Rattes       | Contribuir para o desenvolvimento eficiente e funcional do sistema         | Média      | Alta                | Positivo | Focado no desenvolvimento back-end      |
+| Chrystian Fonseca | Garantir que o sistema esteja bem arquitetado e escalável                  | Alta       | Alta                | Positivo | Liderança técnica                       |
+| Samara Chaves     | Implementar uma interface intuitiva e amigável para o usuário final        | Média      | Alta                | Positivo | Focado no desenvolvimento front-end     |
+| João Silva        | Sucesso geral do projeto, garantindo prazos e qualidade                    | Alta       | Alta                | Positivo | Responsável pela gestão do projeto      |
+| Maria Fernandes   | Coletar e definir requisitos claros para o sistema                         | Alta       | Alta                | Positivo | Conduz a análise de requisitos          |
+| Renata Lima	      | Desenvolver e integrar o firmware dos sistemas embarcados com eficiência   | Média      | Alta                | Positivo | Especialista em sistemas embarcados     |
+| Felipe Ramos      | Garantir que o sistema esteja livre de bugs antes de ser entregue          | Média      | Alta                | Positivo | Focado em testes de qualidade           |
+| Júlia Andrade     | Alinhar o produto final às necessidades do cliente                         | Alta       | Alta                | Positivo | Voz do cliente dentro do projeto        |
+| Roberto Teixeira  | Ter um sistema fácil de usar que melhore a gestão de estoque no dia a dia  | Alta       | Média               | Positivo | Usuário final com expectativas práticas |
+| Vanessa Oliveira  | Facilitar a operação diária com um sistema que previna desperdícios        | Média      | Média               | Positivo | Feedback direto sobre usabilidade       |
+| Leonardo Santos   | Garantir que o sistema contribua para a sustentabilidade do negócio        | Média      | Média               | Positivo | Focado em práticas sustentáveis         |
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.
