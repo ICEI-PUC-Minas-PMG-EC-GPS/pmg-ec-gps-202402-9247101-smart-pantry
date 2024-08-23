@@ -88,13 +88,6 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 # Partes Interessadas
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
-
 ## Identificação das Partes Interessadas
 
 | Nome              | Posição / Cargo                      | Papel Projeto             | E-mail                          | Telefone       |
