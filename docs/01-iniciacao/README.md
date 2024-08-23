@@ -43,12 +43,6 @@
 
 Diversas empresas do ramo de comércio alimentício, como restaurantes, lanchonetes e até mesmo bares; enfrentam problemas com a constante necessidade de repor seus estoques e dispensas. Tal dificuldade está no fato de praticamente 100% das vezes o controle dos estoques e despensas ser realizado de forma manual, com anotações físicas em cadernos e/ou cadernetas, ou através da utilização de planilhas que, mesmo possuindo algumas fórmulas para auxiliar na gestão, são incapazes de se atualizarem sozinhas; sendo necessária a mão de obra humana e realização constante de inventários e conferências para verificar a atual quantidade de itens, quais estão próximos do vencimento e até mesmo para montar uma lista de compras com produto por produto que deverá ser reposto. Como o processo acaba sendo totalmente dependente de conferência manual, o processo pode acabar tendo falhas humanas envolvendo esquecimento de contagem de algum produto, contagem errônea, "perda de tempo" dependendo da quantidade de produtos a serem contados, entre diversas outras.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente. 
-
 ## Objetivos
 
 Objetivo Geral:
@@ -61,14 +55,6 @@ Objetivos Específicos:
 2. Criar uma interface mobile intuitiva que permita a visualização do inventário, envio de alertas sobre itens próximos ao vencimento e a geração automática de listas de compras com base nas necessidades de reposição.
 3. Desenvolver funcionalidades de automação, como a atualização automática do inventário e o envio de notificações personalizadas, para melhorar a organização e eficiência na gestão de estoques.
 4. Integrar o sistema com assistentes virtuais para permitir o controle do inventário por comandos de voz, além de implementar uma gestão de acesso que permita diferentes níveis de controle aos funcionários do estabelecimento.
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 
 ## Justificativa
 
@@ -125,15 +111,6 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 | Vanessa Oliveira  |  Chefe de Cozinha (Cliente)          | Usuária Final             | vanessa.oliveira@cliente.com    | (91)99111-8888 |
 | Leonardo Santos   | Consultor de Sustentabilidade        | Consultor Externo         | leonardo.santos@consultoria.com | (31)98000-9999 |
 
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
-
 ## Avaliação das Partes Interessadas
 
 | Nome              | Expectativa no Projeto                                                     | Influência | Importância / Poder | Apoio    | Observações                             |
@@ -149,14 +126,6 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 | Roberto Teixeira  | Ter um sistema fácil de usar que melhore a gestão de estoque no dia a dia  | Alta       | Média               | Positivo | Usuário final com expectativas práticas |
 | Vanessa Oliveira  | Facilitar a operação diária com um sistema que previna desperdícios        | Média      | Média               | Positivo | Feedback direto sobre usabilidade       |
 | Leonardo Santos   | Garantir que o sistema contribua para a sustentabilidade do negócio        | Média      | Média               | Positivo | Focado em práticas sustentáveis         |
-
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
 
 ```diff
 + Tarefa 01
