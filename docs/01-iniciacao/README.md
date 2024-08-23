@@ -72,12 +72,17 @@ Objetivos Específicos:
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A gestão eficiente de estoques em estabelecimentos alimentícios é essencial para evitar desperdícios e otimizar recursos. O "Smart Pantry" atende a essa necessidade ao combinar tecnologia RFID e sensores de peso para monitorar em tempo real a quantidade e o estado dos alimentos estocados. O sistema alerta sobre produtos próximos à data de validade, gera listas automáticas de reposição, e permite uma gestão de inventário mais precisa e sustentável. Com funcionalidades que automatizam processos e reduzem erros humanos, o Smart Pantry melhora a eficiência operacional e a sustentabilidade dos negócios alimentícios.
 
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+Os benefícios esperados pela construção do projeto "Smart Pantry" são significativos e variados. E aqui estão alguns deles: 
+
+1.Redução de Desperdício de Alimentos: Ao monitorar os produtos em tempo real e alertar sobre itens próximos da data de validade, o Smart Pantry ajuda a minimizar o desperdício, resultando em economia de custos e práticas mais sustentáveis.
+
+2.Melhoria na Gestão de Estoques: O sistema proporciona uma visão clara e organizada dos itens estocados, facilitando o planejamento de compras e reposições, além de evitar a perda de produtos por má administração de inventário.
+
+3.Sustentabilidade: Com a redução de desperdícios e o uso mais eficiente dos recursos, o Smart Pantry contribui para práticas empresariais mais sustentáveis, o que está sendo cada vez mais valorizado no mercado.
+
+4.Melhoria na Satisfação do Cliente: Com um controle mais eficaz do estoque, os estabelecimentos podem garantir que os produtos necessários estejam sempre disponíveis, o que pode resultar em melhor atendimento e maior satisfação do cliente.
 
 ## Critérios de Sucesso
 
