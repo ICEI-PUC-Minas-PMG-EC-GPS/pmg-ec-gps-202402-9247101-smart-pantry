@@ -86,11 +86,19 @@ Os benefícios esperados pela construção do projeto "Smart Pantry" são signif
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os critérios de sucesso que definimos para que o projeto seja considerado concluído corretamente são:
 
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+1.Entrega dentro do Prazo e Orçamento: O projeto deve ser concluído dentro do cronograma estabelecido e sem ultrapassar o orçamento previsto. O cumprimento desses parâmetros será um indicador essencial da eficiência na gestão do projeto.
+
+2.Satisfação do Cliente: A satisfação dos usuários finais, que são os gestores de estabelecimentos alimentícios, será avaliada através de pesquisas e feedbacks. Então, o sucesso do projeto dependerá da capacidade do sistema de atender a essas necessidades e expectativas dos clientes em termos de funcionalidade, usabilidade e confiabilidade.
+
+3.Qualidade do Produto Final: O sistema Smart Pantry deve funcionar de acordo com as especificações técnicas e operacionais estabelecidas. Isso inclui a precisão dos sensores de peso e da tecnologia RFID, a eficácia das notificações automáticas, e a integridade do inventário atualizado em tempo real.
+
+4.Atendimento aos Requisitos das Partes Interessadas: O projeto deve atender a todos os requisitos e expectativas das partes interessadas, incluindo proprietários, gerentes de estabelecimentos, e equipe de TI. O alinhamento das entregas com as necessidades dessas partes interessadas será muito importante.
+
+5.Gestão Eficaz de Riscos: É importante identificar e gerenciar riscos durante o desenvolvimento e implementação do Smart Pantry. Deveremos antecipar e responder de forma eficaz a possíveis desafios e imprevistos.
+
+6.Impacto na Redução de Desperdícios: O sucesso do projeto será medido pela redução efetiva no desperdício de alimentos nos estabelecimentos que utilizarem o sistema. Através da diminuição de produtos vencidos e a otimização das reposições, poderemos ver o impacto real do sistema.
 
 # Partes Interessadas
 
