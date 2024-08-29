@@ -297,10 +297,14 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|ID    | Descrição de Condições para Início do Projeto                                                    | 
+|------|--------------------------------------------------------------------------------------------------|
+|CI-001| Aprovação do orçamento e financiamento                                                           |
+|CI-002| Assinatura de contrato de prestação de serviços com fornecedores                                 |
+|CI-003| Contratação da equpe de desenvolvimento e de especialistas em hardware e software                |
+|CI-004| Liberação de acesso à(s) despensa(s)/estoque(s) da contratante, aos funcionários da contratada   |
+|CI-005| Acesso ao planejamento de estocagem de produtos (Lista de compras)                               |
+|CI-006| Aquisição dos equipamentos e tecnologias, conforme análise in loco                               |
 
 ## Marcos Agendados e Entregas
 
