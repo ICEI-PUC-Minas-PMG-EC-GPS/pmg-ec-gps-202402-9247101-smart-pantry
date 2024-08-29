@@ -282,14 +282,15 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
+|CE-001| Desenvolvimento de hardware específico, como sensores e dispositivos RFID, que serão adquiridos de terceiros.        |
+|CE-002| Suporte técnico e manutenção pós-implementação, que será terceirizado ou tratado em contrato separado.|
+|CE-003| Customizações específicas para cada estabelecimento além das funcionalidades básicas definidas no escopo.|
+|CE-004| Desenvolvimento de funcionalidades específicas para a integração com plataformas de redes sociais.|
+|CE-005| Criação de conteúdo educativo ou treinamentos extensivos para o uso do sistema, além do manual básico do usuário.|
 
 ### Condições para início do Projeto
 
