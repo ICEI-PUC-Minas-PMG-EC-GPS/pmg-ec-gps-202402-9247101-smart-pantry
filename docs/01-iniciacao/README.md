@@ -241,14 +241,20 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
-
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Monitorar o inventário em tempo real utilizando sensores de peso e tecnologia RFID. | ALTA | 
+|RF-002| Enviar alertas para itens próximos ao vencimento ou em quantidade crítica. | ALTA |
+|RF-003| Atualizar automaticamente o inventário com base nas entradas e saídas de produtos detectadas. | ALTA |
+|RF-004| Gerar automaticamente listas de compras com base na quantidade atual de estoque e previsão de demanda.  | ALTA |
+|RF-005| Permitir que o usuário cadastre tarefas de monitoramento e reposição de estoque.   | ALTA |
+|RF-006| Emitir relatórios analíticos sobre o desempenho do estoque, incluindo desperdício e reposição.   | MÉDIA |
+|RF-007| Emitir um relatório de tarefas de gestão de estoque realizadas no mês.   | MÉDIA |
+|RF-008| Implementar um sistema de feedback para que os funcionários possam relatar problemas ou melhorias no sistema. | MÉDIA |
+|RF-009| Fornecer uma funcionalidade para comparar o estoque atual com os históricos de períodos anteriores.  | MÉDIA |
+|RF-010| Implementar alertas para anomalias detectadas, como diferenças significativas entre inventário físico e registrado.   | MÉDIA |
 
 ### Requisitos Não Funcionais
 
