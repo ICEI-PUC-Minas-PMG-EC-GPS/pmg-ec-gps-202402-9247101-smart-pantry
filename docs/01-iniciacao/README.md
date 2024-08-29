@@ -165,6 +165,30 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 | Serviços e treinamento  |           |            |              |             |
 | **Total Geral**         |           |            |              |             |
 
+| Item de Custo            | Descrição                                                                 | Qtd. horas | Valor / hora | Valor total  |
+|--------------------------|---------------------------------------------------------------------------|------------|--------------|--------------|
+| **Recursos Humanos**      |                                                                           |            |              |              |
+| Desenvolvimento Back-end  | Implementação do sistema de monitoramento, APIs e integração com hardware | 300        | R$ 120,00    | R$ 36.000,00 |
+| Desenvolvimento Front-end | Criação da interface mobile e funcionalidades de visualização             | 250        | R$ 110,00    | R$ 27.500,00 |
+| Analista de Requisitos    | Levantamento de requisitos e documentação técnica                         | 100        | R$ 100,00    | R$ 10.000,00 |
+| Testador de Sistemas      | Testes de qualidade e depuração do sistema                                | 150        | R$ 90,00     | R$ 13.500,00 |
+| Gerente de Projeto        | Coordenação do projeto e comunicação entre as partes interessadas         | 120        | R$ 150,00    | R$ 18.000,00 |
+| **Hardware**              |                                                                           |            |              |              |
+| Sensores de Peso          | Dispositivos para monitoramento em tempo real dos estoques                | 50 unidades| R$ 200,00    | R$ 10.000,00 |
+| Leitores RFID             | Dispositivos para leitura de etiquetas RFID                               | 30 unidades| R$ 150,00    | R$ 4.500,00  |
+| Etiquetas RFID            | Etiquetas para identificação dos produtos                                 | 500 unidades| R$ 5,00      | R$ 2.500,00  |
+| **Serviços de Rede**      |                                                                           |            |              |              |
+| Infraestrutura de Rede    | Configuração e manutenção da rede para conectividade dos dispositivos     | -          | -            | R$ 5.000,00  |
+| **Hospedagem e Nuvem**    |                                                                           |            |              |              |
+| Servidores em Nuvem       | Hospedagem do sistema e banco de dados                                    | 12 meses   | R$ 1.200,00  | R$ 14.400,00 |
+| **Software de Terceiros** |                                                                           |            |              |              |
+| Licenças de Software      | Ferramentas de desenvolvimento, monitoramento e automação                 | -          | -            | R$ 8.000,00  |
+| **Serviços e Treinamento**|                                                                           |            |              |              |
+| Treinamento de Usuários   | Capacitação dos funcionários dos estabelecimentos                         | 40 horas   | R$ 200,00    | R$ 8.000,00  |
+| Suporte Técnico           | Serviço de suporte e manutenção pós-implementação                         | 12 meses   | R$ 1.000,00  | R$ 12.000,00 |
+| **Total Geral**           |                                                                           |            |              | R$ 169.400,00|
+
+
 
 ## Estimativa de Prazo
 
