@@ -258,14 +258,16 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
+A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-001| A interface do usuário deve ser intuitiva e acessível, com suporte a dispositivos móveis e desktops. | ALTA     | 
+|RNF-002| O sistema deve ser capaz de processar dados de inventário em tempo real, com um tempo de resposta inferior a 2 segundos.| ALTA     | 
+|RF-003| A plataforma deve oferecer suporte a múltiplos idiomas, incluindo pelo menos português e inglês. | MÉDIA |
+|RF-004| O sistema deve ser compatível com as principais assistentes virtuais do mercado, como Alexa e Google Assistant.  | MÉDIA |
+|RF-005| O sistema deve ser modular, facilitando futuras atualizações e integração com outros sistemas.   | ALTA |
+A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 
 ### Restrições
