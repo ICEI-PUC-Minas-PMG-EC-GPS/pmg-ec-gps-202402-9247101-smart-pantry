@@ -275,9 +275,13 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|------|----------------------------------------------------------------------------------------|-----=-|
+|RE-001| Limitações quanto à quantidade de cada produto do inventário que podem ser armazenados | ALTA  | 
+|RE-002| Suporte a conectividade em redes estáveis de internet (Wi-fi ou dados móveis)          | ALTA  |
+|RE-003| Compatibilidade com versões móveis Anroid 7.0 Nougat, IOS 12.0 e superiores            | ALTA  |
+|RE-004| Compatibilidade com tecnologia NFC, para leitura das tags RFID em dispositivos móveis  | MÉDIA |
+|RE-005| Resolução automática de Conflitos de Dados do inventário                               | MÉDIA |
+|RE-006| Disponibilidade do sistema nos idiomas "Português" e "Inglês"                          | MÉDIA |
 
 
 ### Contra-Escopo
