@@ -267,7 +267,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |RF-003| A plataforma deve oferecer suporte a múltiplos idiomas, incluindo pelo menos português e inglês. | MÉDIA |
 |RF-004| O sistema deve ser compatível com as principais assistentes virtuais do mercado, como Alexa e Google Assistant.  | MÉDIA |
 |RF-005| O sistema deve ser modular, facilitando futuras atualizações e integração com outros sistemas.   | ALTA |
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
+
 
 
 ### Restrições
