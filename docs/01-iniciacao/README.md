@@ -155,38 +155,36 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Item de Custo              | Descrição                                                                 | Qtd.       | Unidade       | Valor unitário | Valor total   |
+|----------------------------|---------------------------------------------------------------------------|------------|---------------|----------------|---------------|
+| **Recursos Humanos**        |                                                                           |            |               |                |               |
+| Desenvolvimento Back-end    | Implementação do sistema de monitoramento, APIs e integração com hardware | 400 horas  | R$            | 120,00         | R$ 48.000,00  |
+| Desenvolvimento Front-end   | Criação da interface mobile e funcionalidades de visualização             | 300 horas  | R$            | 110,00         | R$ 33.000,00  |
+| Analista de Requisitos      | Levantamento de requisitos e documentação técnica                         | 150 horas  | R$            | 100,00         | R$ 15.000,00  |
+| Testador de Sistemas        | Testes de qualidade e depuração do sistema                                | 200 horas  | R$            | 90,00          | R$ 18.000,00  |
+| Gerente de Projeto          | Coordenação do projeto e comunicação entre as partes interessadas         | 180 horas  | R$            | 150,00         | R$ 27.000,00  |
+| **Hardware**                |                                                                           |            |               |                |               |
+| Sensores de Peso            | Dispositivos para monitoramento em tempo real dos estoques                | 50 unid.   | R$            | 200,00         | R$ 10.000,00  |
+| Leitores RFID               | Dispositivos para leitura de etiquetas RFID                               | 30 unid.   | R$            | 150,00         | R$ 4.500,00   |
+| Etiquetas RFID              | Etiquetas para identificação dos produtos                                 | 500 unid.  | R$            | 5,00           | R$ 2.500,00   |
+| Microcontroladores          | Placas para controle e processamento dos dados dos sensores               | 20 unid.   | R$            | 300,00         | R$ 6.000,00   |
+| Cabos e Conectores          | Fios, cabos e conectores para instalação dos dispositivos                 | 100 metros | R$            | 10,00          | R$ 1.000,00   |
+| Estanho para Solda          | Material utilizado para soldagem dos componentes eletrônicos              | 5 kg       | R$            | 150,00         | R$ 750,00     |
+| Pano Anti-Estático          | Pano utilizado para proteção dos componentes eletrônicos durante a montagem| 10 unid.  | R$            | 25,00          | R$ 250,00     |
+| **Serviços de Rede**        |                                                                           |            |               |                |               |
+| Infraestrutura de Rede      | Configuração e manutenção da rede para conectividade dos dispositivos     | -          | -             | -              | R$ 6.000,00   |
+| **Hospedagem e Nuvem**      |                                                                           |            |               |                |               |
+| Servidores em Nuvem         | Hospedagem do sistema e banco de dados                                    | 12 meses   | R$            | 1.200,00       | R$ 14.400,00  |
+| **Software de Terceiros**   |                                                                           |            |               |                |               |
+| Licenças de Software        | Ferramentas de desenvolvimento, monitoramento e automação                 | -          | -             | -              | R$ 8.000,00   |
+| Licença Python              | Licença para uso de bibliotecas e frameworks específicos em Python        | 1 ano      | R$            | 500,00         | R$ 500,00     |
+| Licença .NET Core           | Licença para uso de ferramentas .NET Core para o back-end                 | 1 ano      | R$            | 1.000,00       | R$ 1.000,00   |
+| Licença Angular             | Licença para uso de ferramentas Angular no front-end                      | 1 ano      | R$            | 800,00         | R$ 800,00     |
+| **Serviços e Treinamento**  |                                                                           |            |               |                |               |
+| Treinamento de Usuários     | Capacitação dos funcionários dos estabelecimentos                         | 40 horas   | R$            | 200,00         | R$ 8.000,00   |
+| Suporte Técnico             | Serviço de suporte e manutenção pós-implementação                         | 12 meses   | R$            | 1.000,00       | R$ 12.000,00  |
+| **Total Geral**             |                                                                           |            |               |                | R$ 208.700,00 |
 
-| Item de Custo            | Descrição                                                                 | Qtd. horas | Valor / hora | Valor total  |
-|--------------------------|---------------------------------------------------------------------------|------------|--------------|--------------|
-| **Recursos Humanos**      |                                                                           |            |              |              |
-| Desenvolvimento Back-end  | Implementação do sistema de monitoramento, APIs e integração com hardware | 300        | R$ 120,00    | R$ 36.000,00 |
-| Desenvolvimento Front-end | Criação da interface mobile e funcionalidades de visualização             | 250        | R$ 110,00    | R$ 27.500,00 |
-| Analista de Requisitos    | Levantamento de requisitos e documentação técnica                         | 100        | R$ 100,00    | R$ 10.000,00 |
-| Testador de Sistemas      | Testes de qualidade e depuração do sistema                                | 150        | R$ 90,00     | R$ 13.500,00 |
-| Gerente de Projeto        | Coordenação do projeto e comunicação entre as partes interessadas         | 120        | R$ 150,00    | R$ 18.000,00 |
-| **Hardware**              |                                                                           |            |              |              |
-| Sensores de Peso          | Dispositivos para monitoramento em tempo real dos estoques                | 50 unidades| R$ 200,00    | R$ 10.000,00 |
-| Leitores RFID             | Dispositivos para leitura de etiquetas RFID                               | 30 unidades| R$ 150,00    | R$ 4.500,00  |
-| Etiquetas RFID            | Etiquetas para identificação dos produtos                                 | 500 unidades| R$ 5,00      | R$ 2.500,00  |
-| **Serviços de Rede**      |                                                                           |            |              |              |
-| Infraestrutura de Rede    | Configuração e manutenção da rede para conectividade dos dispositivos     | -          | -            | R$ 5.000,00  |
-| **Hospedagem e Nuvem**    |                                                                           |            |              |              |
-| Servidores em Nuvem       | Hospedagem do sistema e banco de dados                                    | 12 meses   | R$ 1.200,00  | R$ 14.400,00 |
-| **Software de Terceiros** |                                                                           |            |              |              |
-| Licenças de Software      | Ferramentas de desenvolvimento, monitoramento e automação                 | -          | -            | R$ 8.000,00  |
-| **Serviços e Treinamento**|                                                                           |            |              |              |
-| Treinamento de Usuários   | Capacitação dos funcionários dos estabelecimentos                         | 40 horas   | R$ 200,00    | R$ 8.000,00  |
-| Suporte Técnico           | Serviço de suporte e manutenção pós-implementação                         | 12 meses   | R$ 1.000,00  | R$ 12.000,00 |
-| **Total Geral**           |                                                                           |            |              | R$ 169.400,00|
 
 
 
