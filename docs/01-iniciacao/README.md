@@ -224,7 +224,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as restrições do projeto. 
 
