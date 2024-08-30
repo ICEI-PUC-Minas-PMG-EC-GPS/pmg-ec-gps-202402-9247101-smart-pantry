@@ -134,15 +134,6 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
-
 ## Estimativa de Custo
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -190,52 +181,15 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A estimativa de duração do projeto do Smarty Pantry é vital para orientar a equipe de desenvolvimento e o cliente sobre o tempo necessário. Estimar o cronograma preciso das etapas do projeto, garantindo que os recursos sejam utilizados de forma eficaz e possibilitando a previsão e prevenção de desafios que possam surgir. Um cronograma realista é útil em termos de desenvolvimento, mas também no desenvolvimento das expectativas e dos objetivos políticos alcançáveis ​​no projeto.
 
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 3288 horas
+* Data de início: 01 / 08 / 2024
+* Data de término: 15 / 12 / 2024
 
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
 ## Declaração de Escopo
-
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ### Requisitos Funcionais
 
@@ -264,7 +218,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |RNF-002| O sistema deve ser capaz de processar dados de inventário em tempo real, com um tempo de resposta inferior a 2 segundos.| ALTA     | 
 |RF-003| A plataforma deve oferecer suporte a múltiplos idiomas, incluindo pelo menos português e inglês. | MÉDIA |
 |RF-004| O sistema deve ser compatível com as principais assistentes virtuais do mercado, como Alexa e Google Assistant.  | MÉDIA |
-|RF-005| O sistema deve ser modular, facilitando futuras atualizações e integração com outros sistemas.   | ALTA |
+|RF-005| O sistema deve ser modular, facilitando futuras atualizações e integração com outros sistemas.   | MÉDIA |
 
 
 
@@ -286,7 +240,7 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
+A tabela a seguir apresenta o contra-escopo do projeto. 
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
@@ -298,7 +252,6 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
 
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
@@ -313,7 +266,6 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
 
 A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
