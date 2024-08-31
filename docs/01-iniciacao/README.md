@@ -268,14 +268,15 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
-|ID   | Marco do Projeto                                                  | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|ID   | Marco do Projeto                                                   | 
+|-----|--------------------------------------------------------------------|
+|M-1  | Conclusão da Análise de Requisitos                                 |
+|M-2  | Finalização do Design do Sistema e interface do usuário            |
+|M-3  | Testes de Integração Inicial entre Hardware e programação Back-end |
+|M-4  | Conclusão do Desenvolvimento do Back-end e Firmware                |
+|M-5  | Conclusão do Desenvolvimento do Front-end                          |
+|M-6  | Conclusão dos Testes Finais e Validação do Sistema                 |
+|M-7  | Implantação e Entrega Final do Projeto                             |
 
 ```diff
 + Tarefa 02
