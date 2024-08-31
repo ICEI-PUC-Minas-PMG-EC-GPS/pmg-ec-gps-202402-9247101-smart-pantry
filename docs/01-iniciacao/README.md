@@ -138,7 +138,7 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-A estimativa de custos do projeto abrange os principais componentes necessários, incluindo recursos humanos, hardware, software e serviços associados. A análise foi realizada com base em valores de mercado atuais e referências de projetos similares, visando fornecer uma projeção financeira realista. Os custos estão organizados de forma a permitir uma visualização clara das despesas envolvidas em cada etapa do desenvolvimento e implementação do sistema. A seguir está a tabela detalhada dos custos estimados para a implementação do projeto.
+A estimativa de custos do projeto abrange os principais componentes necessários, incluindo recursos humanos, hardware, software e serviços associados. A análise foi realizada com base em valores de mercado atuais e referências de projetos similares, visando fornecer uma projeção financeira realista. Os custos estão organizados de forma a permitir uma visualização clara das despesas envolvidas em cada etapa do desenvolvimento e implementação do sistema. A seguir está a tabela detalhada dos custos estimados para a implementação do projeto, repartida em seções "Recursos Huamanos", "Hardware", "Serviços de Rede", Hospedagem e Nuvem", "Software de Terceiros" "Serviços e Treinamento" e finalizando com o "Total Geral".
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -148,35 +148,35 @@ A estimativa de custos do projeto abrange os principais componentes necessários
 
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
-| Item de Custo              | Descrição                                                                 | Qtd.       | Unidade       | Valor unitário | Valor total   |
-|----------------------------|---------------------------------------------------------------------------|------------|---------------|----------------|---------------|
-| **Recursos Humanos**        |                                                                           |            |               |                |               |
-| Desenvolvimento Back-end    | Implementação do sistema de monitoramento, APIs e integração com hardware | 400 horas  | R$            | 120,00         | R$ 48.000,00  |
-| Desenvolvimento Front-end   | Criação da interface mobile e funcionalidades de visualização             | 300 horas  | R$            | 110,00         | R$ 33.000,00  |
-| Analista de Requisitos      | Levantamento de requisitos e documentação técnica                         | 150 horas  | R$            | 100,00         | R$ 15.000,00  |
-| Testador de Sistemas        | Testes de qualidade e depuração do sistema                                | 200 horas  | R$            | 90,00          | R$ 18.000,00  |
-| Gerente de Projeto          | Coordenação do projeto e comunicação entre as partes interessadas         | 180 horas  | R$            | 150,00         | R$ 27.000,00  |
-| **Hardware**                |                                                                           |            |               |                |               |
-| Sensores de Peso            | Dispositivos para monitoramento em tempo real dos estoques                | 50 unid.   | R$            | 200,00         | R$ 10.000,00  |
-| Leitores RFID               | Dispositivos para leitura de etiquetas RFID                               | 30 unid.   | R$            | 150,00         | R$ 4.500,00   |
-| Etiquetas RFID              | Etiquetas para identificação dos produtos                                 | 500 unid.  | R$            | 5,00           | R$ 2.500,00   |
-| Microcontroladores          | Placas para controle e processamento dos dados dos sensores               | 20 unid.   | R$            | 300,00         | R$ 6.000,00   |
-| Cabos e Conectores          | Fios, cabos e conectores para instalação dos dispositivos                 | 100 metros | R$            | 10,00          | R$ 1.000,00   |
-| Estanho para Solda          | Material utilizado para soldagem dos componentes eletrônicos              | 5 kg       | R$            | 150,00         | R$ 750,00     |
-| Pano Anti-Estático          | Pano utilizado para proteção dos componentes eletrônicos durante a montagem| 10 unid.  | R$            | 25,00          | R$ 250,00     |
-| **Serviços de Rede**        |                                                                           |            |               |                |               |
-| Infraestrutura de Rede      | Configuração e manutenção da rede para conectividade dos dispositivos     | -          | -             | -              | R$ 6.000,00   |
-| **Hospedagem e Nuvem**      |                                                                           |            |               |                |               |
-| Servidores em Nuvem         | Hospedagem do sistema e banco de dados                                    | 12 meses   | R$            | 1.200,00       | R$ 14.400,00  |
-| **Software de Terceiros**   |                                                                           |            |               |                |               |
-| Licenças de Software        | Ferramentas de desenvolvimento, monitoramento e automação                 | -          | -             | -              | R$ 8.000,00   |
-| Licença Python              | Licença para uso de bibliotecas e frameworks específicos em Python        | 1 ano      | R$            | 500,00         | R$ 500,00     |
-| Licença .NET Core           | Licença para uso de ferramentas .NET Core para o back-end                 | 1 ano      | R$            | 1.000,00       | R$ 1.000,00   |
-| Licença Angular             | Licença para uso de ferramentas Angular no front-end                      | 1 ano      | R$            | 800,00         | R$ 800,00     |
-| **Serviços e Treinamento**  |                                                                           |            |               |                |               |
-| Treinamento de Usuários     | Capacitação dos funcionários dos estabelecimentos                         | 40 horas   | R$            | 200,00         | R$ 8.000,00   |
-| Suporte Técnico             | Serviço de suporte e manutenção pós-implementação                         | 12 meses   | R$            | 1.000,00       | R$ 12.000,00  |
-| **Total Geral**             |                                                                           |            |               |                | R$ 208.700,00 |
+| Item de Custo               | Descrição                                                                   | Qtd.       | Unidade       | Valor unitário | Valor total   |
+|-----------------------------|-----------------------------------------------------------------------------|------------|---------------|----------------|---------------|
+| **Recursos Humanos**        |                                                                             |            |               |                |               |
+| Desenvolvimento Back-end    | Implementação do sistema de monitoramento, APIs e integração com hardware.  | 400 horas  | R$            | 120,00         | R$ 48.000,00  |
+| Desenvolvimento Front-end   | Criação da interface mobile e funcionalidades de visualização.              | 300 horas  | R$            | 110,00         | R$ 33.000,00  |
+| Analista de Requisitos      | Levantamento de requisitos e documentação técnica.                          | 150 horas  | R$            | 100,00         | R$ 15.000,00  |
+| Testador de Sistemas        | Testes de qualidade e depuração do sistema.                                 | 200 horas  | R$            | 90,00          | R$ 18.000,00  |
+| Gerente de Projeto          | Coordenação do projeto e comunicação entre as partes interessadas.          | 180 horas  | R$            | 150,00         | R$ 27.000,00  |
+| **Hardware**                |                                                                             |            |               |                |               |
+| Sensores de Peso            | Dispositivos para monitoramento em tempo real dos estoques.                 | 50 unid.   | R$            | 200,00         | R$ 10.000,00  |
+| Leitores RFID               | Dispositivos para leitura de etiquetas RFID.                                | 30 unid.   | R$            | 150,00         | R$ 4.500,00   |
+| Etiquetas RFID              | Etiquetas para identificação dos produtos.                                  | 500 unid.  | R$            | 5,00           | R$ 2.500,00   |
+| Microcontroladores          | Placas para controle e processamento dos dados dos sensores.                | 20 unid.   | R$            | 300,00         | R$ 6.000,00   |
+| Cabos e Conectores          | Fios, cabos e conectores para instalação dos dispositivos.                  | 100 metros | R$            | 10,00          | R$ 1.000,00   |
+| Estanho para Solda          | Material utilizado para soldagem dos componentes eletrônicos.               | 5 kg       | R$            | 150,00         | R$ 750,00     |
+| Pano Anti-Estático          | Pano utilizado para proteção dos componentes eletrônicos durante a montagem.| 10 unid.   | R$            | 25,00          | R$ 250,00     |
+| **Serviços de Rede**        |                                                                             |            |               |                |               |
+| Infraestrutura de Rede      | Configuração e manutenção da rede para conectividade dos dispositivos.      | -          | -             | -              | R$ 6.000,00   |
+| **Hospedagem e Nuvem**      |                                                                             |            |               |                |               |
+| Servidores em Nuvem         | Hospedagem do sistema e banco de dados.                                     | 12 meses   | R$            | 1.200,00       | R$ 14.400,00  |
+| **Software de Terceiros**   |                                                                             |            |               |                |               |
+| Licenças de Software        | Ferramentas de desenvolvimento, monitoramento e automação.                  | -          | -             | -              | R$ 8.000,00   |
+| Licença Python              | Licença para uso de bibliotecas e frameworks específicos em Python.         | 1 ano      | R$            | 500,00         | R$ 500,00     |
+| Licença .NET Core           | Licença para uso de ferramentas .NET Core para o back-end.                  | 1 ano      | R$            | 1.000,00       | R$ 1.000,00   |
+| Licença Angular             | Licença para uso de ferramentas Angular no front-end.                       | 1 ano      | R$            | 800,00         | R$ 800,00     |
+| **Serviços e Treinamento**  |                                                                             |            |               |                |               |
+| Treinamento de Usuários     | Capacitação dos funcionários dos estabelecimentos.                          | 40 horas   | R$            | 200,00         | R$ 8.000,00   |
+| Suporte Técnico             | Serviço de suporte e manutenção pós-implementação.                          | 12 meses   | R$            | 1.000,00       | R$ 12.000,00  |
+| **Total Geral**             |                                                                             |            |               |                | R$ 208.700,00 |
 
 
 
@@ -197,30 +197,30 @@ A estimativa de duração do projeto do Smarty Pantry é vital para orientar a e
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Monitorar o inventário em tempo real utilizando sensores de peso e tecnologia RFID. | ALTA | 
-|RF-002| Enviar alertas para itens próximos ao vencimento ou em quantidade crítica. | ALTA |
-|RF-003| Atualizar automaticamente o inventário com base nas entradas e saídas de produtos detectadas. | ALTA |
-|RF-004| Gerar automaticamente listas de compras com base na quantidade atual de estoque e previsão de demanda.  | ALTA |
-|RF-005| Permitir que o usuário cadastre tarefas de monitoramento e reposição de estoque.   | ALTA |
-|RF-006| Emitir relatórios analíticos sobre o desempenho do estoque, incluindo desperdício e reposição.   | MÉDIA |
-|RF-007| Emitir um relatório de tarefas de gestão de estoque realizadas no mês.   | MÉDIA |
-|RF-008| Implementar um sistema de feedback para que os funcionários possam relatar problemas ou melhorias no sistema. | MÉDIA |
-|RF-009| Fornecer uma funcionalidade para comparar o estoque atual com os históricos de períodos anteriores.  | MÉDIA |
-|RF-010| Implementar alertas para anomalias detectadas, como diferenças significativas entre inventário físico e registrado.   | MÉDIA |
+|ID    | Descrição do Requisito                                                                                               | Prioridade |
+|------|----------------------------------------------------------------------------------------------------------------------|------------|
+|RF-001| Monitorar o inventário em tempo real utilizando sensores de peso e tecnologia RFID.                                  |    ALTA    | 
+|RF-002| Enviar alertas para itens próximos ao vencimento ou em quantidade crítica.                                           |    ALTA    |
+|RF-003| Atualizar automaticamente o inventário com base nas entradas e saídas de produtos detectadas.                        |    ALTA    |
+|RF-004| Gerar automaticamente listas de compras com base na quantidade atual de estoque e previsão de demanda.               |    ALTA    |
+|RF-005| Permitir que o usuário cadastre tarefas de monitoramento e reposição de estoque.                                     |    ALTA    |
+|RF-006| Emitir relatórios analíticos sobre o desempenho do estoque, incluindo desperdício e reposição.                       |    MÉDIA   |
+|RF-007| Emitir um relatório de tarefas de gestão de estoque realizadas no mês.                                               |    MÉDIA   |
+|RF-008| Implementar um sistema de feedback para que os funcionários possam relatar problemas ou melhorias no sistema.        |    MÉDIA   |
+|RF-009| Fornecer uma funcionalidade para comparar o estoque atual com os históricos de períodos anteriores.                  |    MÉDIA   |
+|RF-010| Implementar alertas para anomalias detectadas, como diferenças significativas entre inventário físico e registrado.  |    MÉDIA   |
 
 ### Requisitos Não Funcionais
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| A interface do usuário deve ser intuitiva e acessível, com suporte a dispositivos móveis e desktops. | ALTA     | 
-|RNF-002| O sistema deve ser capaz de processar dados de inventário em tempo real, com um tempo de resposta inferior a 2 segundos.| ALTA     | 
-|RF-003| A plataforma deve oferecer suporte a múltiplos idiomas, incluindo pelo menos português e inglês. | MÉDIA |
-|RF-004| O sistema deve ser compatível com as principais assistentes virtuais do mercado, como Alexa e Google Assistant.  | MÉDIA |
-|RF-005| O sistema deve ser modular, facilitando futuras atualizações e integração com outros sistemas.   | MÉDIA |
+|ID     | Descrição do Requisito                                                                                                   | Prioridade |
+|-------|--------------------------------------------------------------------------------------------------------------------------|------------|
+|RNF-001| A interface do usuário deve ser intuitiva e acessível, com suporte a dispositivos móveis e desktops.                     |    ALTA    | 
+|RNF-002| O sistema deve ser capaz de processar dados de inventário em tempo real, com um tempo de resposta inferior a 2 segundos. |    ALTA    | 
+|RF-003 | A plataforma deve oferecer suporte a múltiplos idiomas, incluindo pelo menos português e inglês.                         |    MÉDIA   |
+|RF-004 | O sistema deve ser compatível com as principais assistentes virtuais do mercado, como Alexa e Google Assistant.          |    MÉDIA   |
+|RF-005 | O sistema deve ser modular, facilitando futuras atualizações e integração com outros sistemas.                           |    MÉDIA   |
 
 
 
@@ -229,27 +229,27 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 A tabela a seguir apresenta as restrições do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|----------------------------------------------------------------------------------------|-------|
-|RE-001| Limitações quanto à quantidade de cada produto do inventário que podem ser armazenados | ALTA  | 
-|RE-002| Suporte a conectividade em redes estáveis de internet (Wi-fi ou dados móveis)          | ALTA  |
-|RE-003| Compatibilidade com versões móveis Anroid 7.0 Nougat, IOS 12.0 e superiores            | ALTA  |
-|RE-004| Compatibilidade com tecnologia NFC, para leitura das tags RFID em dispositivos móveis  | MÉDIA |
-|RE-005| Resolução automática de Conflitos de Dados do inventário                               | MÉDIA |
-|RE-006| Disponibilidade do sistema nos idiomas "Português" e "Inglês"                          | MÉDIA |
+|ID    | Descrição do Requisito                                                                 | Prioridade |
+|------|----------------------------------------------------------------------------------------|------------|
+|RE-001| Limitações quanto à quantidade de cada produto do inventário que podem ser armazenados |    ALTA    | 
+|RE-002| Suporte a conectividade em redes estáveis de internet (Wi-fi ou dados móveis)          |    ALTA    |
+|RE-003| Compatibilidade com versões móveis Anroid 7.0 Nougat, IOS 12.0 e superiores            |    ALTA    |
+|RE-004| Compatibilidade com tecnologia NFC, para leitura das tags RFID em dispositivos móveis  |    MÉDIA   |
+|RE-005| Resolução automática de Conflitos de Dados do inventário                               |    MÉDIA   |
+|RE-006| Disponibilidade do sistema nos idiomas "Português" e "Inglês"                          |    MÉDIA   |
 
 
 ### Contra-Escopo
 
 A tabela a seguir apresenta o contra-escopo do projeto. 
 
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
+|ID    | Descrição do Contra-Escopo                                                                                           | 
+|------|----------------------------------------------------------------------------------------------------------------------|
 |CE-001| Desenvolvimento de hardware específico, como sensores e dispositivos RFID, que serão adquiridos de terceiros.        |
-|CE-002| Suporte técnico e manutenção pós-implementação, que será terceirizado ou tratado em contrato separado.|
-|CE-003| Customizações específicas para cada estabelecimento além das funcionalidades básicas definidas no escopo.|
-|CE-004| Desenvolvimento de funcionalidades específicas para a integração com plataformas de redes sociais.|
-|CE-005| Criação de conteúdo educativo ou treinamentos extensivos para o uso do sistema, além do manual básico do usuário.|
+|CE-002| Suporte técnico e manutenção pós-implementação, que será terceirizado ou tratado em contrato separado.               |
+|CE-003| Customizações específicas para cada estabelecimento além das funcionalidades básicas definidas no escopo.            |
+|CE-004| Desenvolvimento de funcionalidades específicas para a integração com plataformas de redes sociais.                   |
+|CE-005| Criação de conteúdo educativo ou treinamentos extensivos para o uso do sistema, além do manual básico do usuário.    |
 
 ### Condições para início do Projeto
 
@@ -258,12 +258,12 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto                                                    | 
 |------|--------------------------------------------------------------------------------------------------|
-|CI-001| Aprovação do orçamento e financiamento                                                           |
-|CI-002| Assinatura de contrato de prestação de serviços com fornecedores                                 |
-|CI-003| Contratação da equpe de desenvolvimento e de especialistas em hardware e software                |
-|CI-004| Liberação de acesso à(s) despensa(s)/estoque(s) da contratante, aos funcionários da contratada   |
-|CI-005| Acesso ao planejamento de estocagem de produtos (Lista de compras)                               |
-|CI-006| Aquisição dos equipamentos e tecnologias, conforme análise in loco                               |
+|CI-001| Aprovação do orçamento e financiamento.                                                          |
+|CI-002| Assinatura de contrato de prestação de serviços com fornecedores.                                |
+|CI-003| Contratação da equpe de desenvolvimento e de especialistas em hardware e software.               |
+|CI-004| Liberação de acesso à(s) despensa(s)/estoque(s) da contratante, aos funcionários da contratada.  |
+|CI-005| Acesso ao planejamento de estocagem de produtos (Lista de compras).                              |
+|CI-006| Aquisição dos equipamentos e tecnologias, conforme análise in loco.                              |
 
 ## Marcos Agendados e Entregas
 
@@ -272,13 +272,13 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                   | 
 |-----|--------------------------------------------------------------------|
-|M-1  | Conclusão da Análise de Requisitos                                 |
-|M-2  | Finalização do Design do Sistema e interface do usuário            |
-|M-3  | Testes de Integração Inicial entre Hardware e programação Back-end |
-|M-4  | Conclusão do Desenvolvimento do Back-end e Firmware                |
-|M-5  | Conclusão do Desenvolvimento do Front-end                          |
-|M-6  | Conclusão dos Testes Finais e Validação do Sistema                 |
-|M-7  | Implantação e Entrega Final do Projeto                             |
+|M-1  | Conclusão da Análise de Requisitos.                                |
+|M-2  | Finalização do Design do Sistema e interface do usuário.           |
+|M-3  | Testes de Integração Inicial entre Hardware e programação Back-end.|
+|M-4  | Conclusão do Desenvolvimento do Back-end e Firmware.               |
+|M-5  | Conclusão do Desenvolvimento do Front-end.                         |
+|M-6  | Conclusão dos Testes Finais e Validação do Sistema.                |
+|M-7  | Implantação e Entrega Final do Projeto.                            |
 
 ```diff
 + Tarefa 02
