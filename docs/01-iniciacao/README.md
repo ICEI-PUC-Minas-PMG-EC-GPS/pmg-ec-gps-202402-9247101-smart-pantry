@@ -138,6 +138,8 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+A estimativa de custos do projeto abrange os principais componentes necessários, incluindo recursos humanos, hardware, software e serviços associados. A análise foi realizada com base em valores de mercado atuais e referências de projetos similares, visando fornecer uma projeção financeira realista. Os custos estão organizados de forma a permitir uma visualização clara das despesas envolvidas em cada etapa do desenvolvimento e implementação do sistema. A seguir está a tabela detalhada dos custos estimados para a implementação do projeto.
+
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
 > Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
