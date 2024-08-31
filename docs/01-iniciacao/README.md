@@ -136,17 +136,8 @@ Os critérios de sucesso que definimos para que o projeto seja considerado concl
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 A estimativa de custos do projeto abrange os principais componentes necessários, incluindo recursos humanos, hardware, software e serviços associados. A análise foi realizada com base em valores de mercado atuais e referências de projetos similares, visando fornecer uma projeção financeira realista. Os custos estão organizados de forma a permitir uma visualização clara das despesas envolvidas em cada etapa do desenvolvimento e implementação do sistema. A seguir está a tabela detalhada dos custos estimados para a implementação do projeto, repartida em seções "Recursos Huamanos", "Hardware", "Serviços de Rede", Hospedagem e Nuvem", "Software de Terceiros" "Serviços e Treinamento" e finalizando com o "Total Geral".
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo               | Descrição                                                                   | Qtd.       | Unidade       | Valor unitário | Valor total   |
 |-----------------------------|-----------------------------------------------------------------------------|------------|---------------|----------------|---------------|
@@ -177,9 +168,6 @@ A estimativa de custos do projeto abrange os principais componentes necessários
 | Treinamento de Usuários     | Capacitação dos funcionários dos estabelecimentos.                          | 40 horas   | R$            | 200,00         | R$ 8.000,00   |
 | Suporte Técnico             | Serviço de suporte e manutenção pós-implementação.                          | 12 meses   | R$            | 1.000,00       | R$ 12.000,00  |
 | **Total Geral**             |                                                                             |            |               |                | R$ 208.700,00 |
-
-
-
 
 ## Estimativa de Prazo
 
