@@ -311,9 +311,9 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 > Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
 > A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
-| Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
-|-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
+| Ambiente              | Plataforma         | Link de Acesso                                                        | Justificativa |
+|-----------------------|--------------------|-----------------------------------------------------------------------|---------------|
+| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/21/views/1 | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
 | Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
