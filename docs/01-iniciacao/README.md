@@ -297,7 +297,32 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Igor Rattes – Desenvolvedor Back-end
+Responsável pela construção da lógica do sistema, bancos de dados e integração com outros componentes. Seu foco está no desenvolvimento eficiente e funcional do sistema, assegurando que as informações sejam processadas e armazenadas de maneira adequada.
+
+* Chrystian Fonseca – Desenvolvedor Full-stack / Líder Técnico
+Atua na liderança técnica do projeto, garantindo que o sistema seja bem arquitetado, escalável e apto a suportar futuras expansões. Além disso, orienta as decisões técnicas e valida a qualidade da estrutura do software, além de dar apoio no desenvolvimento tanto back-end quanto front-end.
+
+* Samara Chaves – Desenvolvedora Front-end
+Focada na criação de uma interface de usuário intuitiva e amigável. É responsável pelo desenvolvimento das telas e interações visuais, visando garantir uma experiência positiva e fluida para o usuário final.
+
+* João Silva – Gerente de Projeto
+Responsável pela gestão global do projeto, incluindo o cumprimento de prazos, a coordenação das equipes e a garantia de que os objetivos de qualidade sejam alcançados. Além disso, é também responsável por assegurar o alinhamento entre as diferentes áreas e supervisionar o andamento das atividades.
+
+* Maria Fernandes – Analista de Requisitos
+Sua principal responsabilidade é coletar e definir os requisitos do sistema, interagindo com os stakeholders para assegurar que as expectativas sejam atendidas. É responsável também por traduzir as necessidades dos usuários e clientes em especificações claras para o desenvolvimento.
+
+* Renata Lima – Desenvolvedora de Firmware
+Especialista em sistemas embarcados, é responsável pelo desenvolvimento e integração do firmware dos dispositivos que compõem o projeto. Trabalha para garantir que os sensores e controladores físicos funcionem de forma sincronizada com o software.
+
+* Felipe Ramos – Especialista em Qualidade
+Sua função é garantir que o sistema esteja livre de erros antes da entrega, realizando testes rigorosos de qualidade. Concentra-se em identificar e corrigir bugs, assegurando que o produto final seja confiável e estável.
+
+* Júlia Andrade – Especialista em Atendimento ao Cliente / Produto
+Atua como a "voz do cliente" no projeto, garantindo que o sistema final atenda às necessidades e expectativas do cliente. É responsável por alinhar o desenvolvimento às demandas do usuário final, participando de revisões e feedbacks constantes.
+
+* Leonardo Santos – Consultor de Sustentabilidade
+Responsável por garantir que o projeto contribua para a sustentabilidade do negócio, com foco em práticas que previnam desperdícios e promovam uma gestão consciente de recursos. Responsável por avaliar se o sistema atende às metas de sustentabilidade estabelecidas.
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
