@@ -28,7 +28,72 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Visão Geral do Projeto:
+
+O projeto tem como objetivo desenvolver um sistema automatizado de gestão de estoque para estabelecimentos alimentícios, utilizando sensores de peso e tecnologia RFID para monitoramento em tempo real. O sistema será capaz de gerar listas de compras automáticas, integrar-se a assistentes virtuais, permitir gestão de acesso e oferecer uma interface mobile. A metodologia de desenvolvimento é baseada no Scrum, com a entrega final prevista para 15/12/2024.
+
+2. Objetivos do Projeto:
+
+- Criar um sistema eficiente de controle de estoque automatizado para reduzir desperdícios e otimizar a reposição de insumos alimentares.
+- Desenvolver uma interface mobile amigável para o usuário, permitindo o gerenciamento remoto de estoques.
+- Integrar o sistema com tecnologias emergentes, como assistentes virtuais (Alexa, Google Assistant) para alertas e controle de inventário por voz.
+- Facilitar o monitoramento em tempo real de estoques através de sensores de peso e etiquetas RFID.
+- Implementar a gestão de acesso, garantindo que apenas usuários autorizados possam manipular o sistema.
+
+3. Entregáveis do Projeto:
+
+- Sistema de Monitoramento com Sensores de Peso e RFID: Implementação de hardware (sensores e etiquetas RFID) para a coleta de dados sobre os itens em estoque.
+- Interface Mobile: Aplicativo mobile que permita a visualização de dados em tempo real, a criação de listas de compras automáticas e o gerenciamento de inventário.
+- Integração com Assistentes Virtuais: Conexão do sistema com assistentes como Alexa e Google Assistant para controle e avisos automatizados.
+- Gestão de Acesso: Implementação de níveis de permissão de acesso para diferentes perfis de usuários.
+- Gerador Automático de Lista de Compras: Com base nos níveis de estoque, o sistema gerará automaticamente listas de compras.
+- Relatórios e Painel de Controle: Dashboards e relatórios sobre o status dos estoques, alertas de itens críticos, e histórico de reposições.
+
+4. Exclusões do Escopo
+
+- Não inclui a criação de software ou hardware que permita o controle direto de câmeras de segurança.
+- Integrações com sistemas de pagamento ou controle financeiro não estão previstas no escopo inicial.
+- A implementação de análises preditivas mais avançadas para o monitoramento de tendência de consumo é considerada fora do escopo neste momento.
+
+5. Requisitos do Projeto
+
+- Hardware: Sensores de peso com precisão adequada para pequenos e grandes volumes, etiquetas RFID para rastreamento de produtos, microcontroladores para processar os dados (FreeRTOS).
+- Software: Desenvolvimento de uma aplicação web e mobile, programação da lógica de controle dos microcontroladores, integração com assistentes virtuais.
+- Segurança: Implementação de gestão de acesso e autenticação para usuários do sistema.
+- Dados: Capacidade de gerar e armazenar logs de inventário, histórico de alterações e reposições.
+
+6. Restrições
+
+- O orçamento alocado para o projeto deve ser respeitado, sem extrapolações significativas.
+- O tempo de entrega final está restrito ao prazo de 15/12/2024.
+- As integrações externas (assistentes virtuais e dispositivos móveis) devem seguir as políticas de privacidade e segurança dos serviços associados (Google, Amazon).
+- Limitações de hardware: a compatibilidade entre os sensores e os microcontroladores será um fator determinante para o escopo técnico.
+
+7. Premissas
+
+- Os sensores de peso e as etiquetas RFID estarão disponíveis conforme os requisitos de precisão e quantidade definidos no projeto.
+- A equipe de desenvolvimento estará disponível durante todas as fases críticas, especialmente na integração de sistemas e testes de hardware.
+- O ambiente de desenvolvimento será devidamente configurado para testes, com acesso a dispositivos reais para integração.
+
+8. Gestão do Escopo e Controle de Mudanças
+
+A gestão do escopo será baseada em uma abordagem iterativa, utilizando a metodologia Scrum para ajustar as prioridades e funcionalidades conforme o avanço do projeto. Qualquer solicitação de alteração no escopo deverá ser formalizada, passando pela análise dos seguintes fatores:
+
+- Impacto no prazo final.
+- Necessidade de recursos adicionais.
+- Mudança nos requisitos de hardware ou software.
+
+Após a avaliação, o pedido de mudança será submetido para aprovação e, se aceito, a mudança será documentada e implementada com os devidos ajustes no cronograma e orçamento.
+
+9. Metodologia e Marcos do Projeto
+
+O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação do progresso. Os marcos principais incluem:
+
+- Fase de Planejamento e Prototipação (até 01/10/2024): Definição do sistema, aquisição de hardware e início do desenvolvimento do protótipo.
+- Desenvolvimento da Arquitetura do Sistema (HAL, SYS, APP) (até 01/11/2024): Integração do hardware com a lógica de controle e testes iniciais.
+- Integração com Aplicativo Mobile e Assistentes Virtuais (até 15/11/2024): Finalização das integrações e testes com assistentes virtuais.
+- Testes e Validação Final (até 10/12/2024): Testes de funcionalidade, desempenho e segurança.
+- Entrega Final (15/12/2024): Entrega do projeto completo para o cliente.
 
 > O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
 > O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
