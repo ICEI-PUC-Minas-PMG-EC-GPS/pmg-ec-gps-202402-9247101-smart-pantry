@@ -281,7 +281,19 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A metodologia do projeto será baseada no Scrum, um framework ágil amplamente utilizado para o desenvolvimento de software, focado em entregar resultados incrementais, adaptando-se às mudanças de requisitos e promovendo uma colaboração eficaz entre a equipe. Ele será dividido em 4 etapas, que são ciclos de trabalho curtos e iterativos, geralmente de duas a quatro semanas. Cada sprint resultará em uma versão incremental e funcional do sistema, permitindo uma avaliação contínua e a adaptação às necessidades do cliente e às mudanças nos requisitos.
+
+Etapa 1 - Planejamento inicial:
+Antes do início de cada etapa do projeto, será realizada uma reunião de planejamento onde a equipe irá definir quais tarefas serão abordadas no próximo ciclo. O objetivo é estabelecer metas claras para a entrega incremental de funcionalidades.
+
+Etapa 2 - Reuniões diárias:
+Diariamente, a equipe terá uma breve reunião, na qual os membros compartilharão o que fizeram no dia anterior, o que planejam fazer no dia atual e quaisquer bloqueis e impecilhos que possam estar enfrentando.
+
+Etapa 3 - Avaliação:
+Ao final de cada etapa do projeto, será feita uma pequena reunião com o(s) cliente(s) para demonstrar as funcionalidades desenvolvidas e receber feedback, para garantir que o projeto está evoluindo de acordo com as expectativas.
+
+Etapa 4 - Resultados, Correções e Melhorias:
+Após a avaliação, será realizada uma avaliação interna, onde a equipe apontará o que funcionou bem, o que pode ser melhorado, o que deve ser consertado e como otimizar o fluxo de trabalho nas próximas fases do projeto.
 
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >
