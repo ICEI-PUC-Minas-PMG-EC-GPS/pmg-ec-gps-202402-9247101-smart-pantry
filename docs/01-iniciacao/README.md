@@ -142,11 +142,11 @@ A estimativa de custos do projeto abrange os principais componentes necessários
 | Item de Custo               | Descrição                                                                   | Qtd.       | Unidade       | Valor unitário | Valor total   |
 |-----------------------------|-----------------------------------------------------------------------------|------------|---------------|----------------|---------------|
 | **Recursos Humanos**        |                                                                             |            |               |                |               |
-| Desenvolvimento Back-end    | Implementação do sistema de monitoramento, APIs e integração com hardware.  | 400 horas  | R$            | 120,00         | R$ 48.000,00  |
-| Desenvolvimento Front-end   | Criação da interface mobile e funcionalidades de visualização.              | 300 horas  | R$            | 110,00         | R$ 33.000,00  |
-| Analista de Requisitos      | Levantamento de requisitos e documentação técnica.                          | 150 horas  | R$            | 100,00         | R$ 15.000,00  |
-| Testador de Sistemas        | Testes de qualidade e depuração do sistema.                                 | 200 horas  | R$            | 90,00          | R$ 18.000,00  |
-| Gerente de Projeto          | Coordenação do projeto e comunicação entre as partes interessadas.          | 180 horas  | R$            | 150,00         | R$ 27.000,00  |
+| Desenvolvimento Back-end    | Implementação do sistema de monitoramento, APIs e integração com hardware.  | 1060 horas  | R$            | 120,00         | R$ 127.200,00  |
+| Desenvolvimento Front-end   | Criação da interface mobile e funcionalidades de visualização.              | 790 horas  | R$            | 110,00         | R$ 86.900,00  |
+| Analista de Requisitos      | Levantamento de requisitos e documentação técnica.                          | 410 horas  | R$            | 100,00         | R$ 41.000,00  |
+| Testador de Sistemas        | Testes de qualidade e depuração do sistema.                                 | 530 horas  | R$            | 90,00          | R$ 47.700,00  |
+| Gerente de Projeto          | Coordenação do projeto e comunicação entre as partes interessadas.          | 480 horas  | R$            | 150,00         | R$ 72.000,00  |
 | **Hardware**                |                                                                             |            |               |                |               |
 | Sensores de Peso            | Dispositivos para monitoramento em tempo real dos estoques.                 | 50 unid.   | R$            | 200,00         | R$ 10.000,00  |
 | Leitores RFID               | Dispositivos para leitura de etiquetas RFID.                                | 30 unid.   | R$            | 150,00         | R$ 4.500,00   |
@@ -167,7 +167,7 @@ A estimativa de custos do projeto abrange os principais componentes necessários
 | **Serviços e Treinamento**  |                                                                             |            |               |                |               |
 | Treinamento de Usuários     | Capacitação dos funcionários dos estabelecimentos.                          | 40 horas   | R$            | 200,00         | R$ 8.000,00   |
 | Suporte Técnico             | Serviço de suporte e manutenção pós-implementação.                          | 12 meses   | R$            | 1.000,00       | R$ 12.000,00  |
-| **Total Geral**             |                                                                             |            |               |                | R$ 208.700,00 |
+| **Total Geral**             |                                                                             |            |               |                | R$ 450.500,00 |
 
 ## Estimativa de Prazo
 
