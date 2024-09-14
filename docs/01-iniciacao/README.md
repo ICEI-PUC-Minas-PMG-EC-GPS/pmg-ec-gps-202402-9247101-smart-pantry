@@ -173,7 +173,7 @@ A estimativa de custos do projeto abrange os principais componentes necessários
 
 A estimativa de duração do projeto do Smarty Pantry é vital para orientar a equipe de desenvolvimento e o cliente sobre o tempo necessário. Estimar o cronograma preciso das etapas do projeto, garantindo que os recursos sejam utilizados de forma eficaz e possibilitando a previsão e prevenção de desafios que possam surgir. Um cronograma realista é útil em termos de desenvolvimento, mas também no desenvolvimento das expectativas e dos objetivos políticos alcançáveis ​​no projeto.
 
-* Prazo previsto (em horas): 3288 horas
+* Prazo previsto (em horas): 3270 horas
 * Data de início: 01 / 08 / 2024
 * Data de término: 15 / 12 / 2024
 
