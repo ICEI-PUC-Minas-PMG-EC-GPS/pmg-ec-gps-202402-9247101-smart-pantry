@@ -103,15 +103,6 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
-> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
-
-
 ![Estrutura Analítica do Projeto](images/Estrutura_Analitica_do_Projeto.png)
 
 > Softwares recomendados: 
@@ -120,8 +111,8 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > * [ProjectLibre](https://www.projectlibre.com/)
 
 ### Documento Editável
-- [Estrutura Analítica do Projeto - Editável](artefatos/Smart_Pantry_Estrutura_Analitica_do_Projeto.mind)
-- [Estrutura Analítica do Projeto - Editável](artefatos/Smart_Pantry_Estrutura_Analitica_do_Projeto_rtf.rtf)
+- [Estrutura Analítica do Projeto - Editável.mind](artefatos/Smart_Pantry_Estrutura_Analitica_do_Projeto.mind)
+- [Estrutura Analítica do Projeto - Editável.rtf](artefatos/Smart_Pantry_Estrutura_Analitica_do_Projeto_rtf.rtf)
 
 ```diff
 + Tarefa 04:
