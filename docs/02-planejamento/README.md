@@ -111,9 +111,8 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
 > Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
+![Estrutura Analítica do Projeto](images/Estrutura_Analitica_do_Projeto.png)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
@@ -121,9 +120,8 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > * [ProjectLibre](https://www.projectlibre.com/)
 
 ### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Estrutura Analítica do Projeto - Editável](artefatos/estrutura_analitica_projeto.wbs)
+- [Estrutura Analítica do Projeto - Editável](artefatos/Smart_Pantry_Estrutura_Analitica_do_Projeto.mind)
+- [Estrutura Analítica do Projeto - Editável](artefatos/Smart_Pantry_Estrutura_Analitica_do_Projeto_rtf.rtf)
 
 ```diff
 + Tarefa 04:
