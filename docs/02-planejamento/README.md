@@ -133,7 +133,8 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
 
 ![Matriz RACI](images/ORGANOGRAMA_RACI.png)
-![Matriz RACI](images/LEGENDA.png)
+![Legenda](images/LEGENDA.png)
+![Recursos Humanos](images/Recursos_Humanos.png)
 
 > Informações Adicionais:
 > * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
