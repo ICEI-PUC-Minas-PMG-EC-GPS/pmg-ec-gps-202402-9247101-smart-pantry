@@ -144,13 +144,14 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Matriz RACI](images/raci.png)
+![Matriz RACI](images/ORGANOGRAMA_RACI.png)
+![Matriz RACI](images/LEGENDA.png)
 
 
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
-- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
+- [Matriz de Responsabilidades (RACI) - Editável](artefatos/Organograma_RACI.xls)
 
 ```diff
 + Tarefa 05:
