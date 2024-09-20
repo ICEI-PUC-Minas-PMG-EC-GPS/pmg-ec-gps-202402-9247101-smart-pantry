@@ -151,7 +151,7 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
-- [Matriz de Responsabilidades (RACI) - Editável](artefatos/Organograma_RACI.xls)
+- [Matriz de Responsabilidades (RACI) - Editável](artefatos/Organograma_RACI.xlsx)
 
 ```diff
 + Tarefa 05:
