@@ -127,12 +127,13 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
 > Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
 > Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
+
+![Matriz RACI](images/ORGANOGRAMA_RACI.png)
+![Matriz RACI](images/LEGENDA.png)
 
 > Informações Adicionais:
 > * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
@@ -142,15 +143,8 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > 
 > Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
-![Matriz RACI](images/ORGANOGRAMA_RACI.png)
-![Matriz RACI](images/LEGENDA.png)
-
-
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
 - [Matriz de Responsabilidades (RACI) - Editável](artefatos/Organograma_RACI.xlsx)
 
 ```diff
