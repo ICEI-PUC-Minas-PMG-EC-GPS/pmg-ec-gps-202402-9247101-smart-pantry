@@ -168,6 +168,9 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
+![image](https://github.com/user-attachments/assets/128739f7-470d-484c-a1a7-9ba991b8f493)
+![image](https://github.com/user-attachments/assets/3d335d79-3ca9-4aeb-b4ac-d3f3192f7c85)
+
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
