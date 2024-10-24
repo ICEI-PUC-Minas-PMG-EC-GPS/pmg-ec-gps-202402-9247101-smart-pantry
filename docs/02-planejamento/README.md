@@ -174,7 +174,7 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+- [Cronograma e Orçamento do Projeto - Editável](artefatos/Smart_Pantry-Atualizado.mpp)
 
 ```diff
 + Tarefa 07:
