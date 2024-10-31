@@ -251,12 +251,12 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 
 ### Artefatos a serem verificados
 
-| Artefato                  | Tipo Verif. | Data        | Responsável            | Métrica              | Data Correção     | Ação Não Conform. | Resp. Avaliação        | Resp. Correção         |
-|---------------------------|-------------|-------------|------------------------|----------------------|-------------------|-------------------|------------------------|------------------------|
+| Artefato                  | Tipo Verif.| Data        | Responsável            | Métrica              | Data Correção     | Ação Não Conform. | Resp. Avaliação        | Resp. Correção         |
+|---------------------------|------------|-------------|------------------------|----------------------|-------------------|-------------------|------------------------|------------------------|
 | Documento de Requisitos	  | Revisão	   | 05/11/2024	 | Analista de Qualidade  | Conformidade	       |	                 | Atualização	     |  Gerente de Projeto    | Analista de Qualidade  |
 | Código de Software 	      | Teste	     | 12/11/2024	 | Engenheiro de Software |	Cobertura de Teste   |                   | Correção de Erros |	Líder de Equipe	      | Engenheiro de Software |
 | Diagrama de Arquitetura   | Revisão	   | 07/11/2024	 | Arquiteto de Sistemas  |	Aderência ao Projeto |                   | Ajuste de Design  |	Arquiteto de Sistemas	| Arquiteto de Sistemas  |
-| Interface do Usuário (UI) | Inspeção	   | 15/11/2024	 | Designer de UX/UI      |	Funcionalidade       |                   | Correção de Layout|	Gerente de Projeto  	| Designer de UX/UI      |
+| Interface do Usuário (UI) | Inspeção	 | 15/11/2024	 | Designer de UX/UI      |	Funcionalidade       |                   | Correção de Layout|	Gerente de Projeto  	| Designer de UX/UI      |
 
 ### Padrões e Normas Utilizadas
 
