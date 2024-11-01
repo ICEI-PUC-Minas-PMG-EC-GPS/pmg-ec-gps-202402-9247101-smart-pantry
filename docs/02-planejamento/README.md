@@ -251,23 +251,24 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 
 ### Artefatos a serem verificados
 
-| Artefato                  | Tipo Verif.| Data        | Responsável            | Métrica              | Data Correção     | Ação Não Conform. | Resp. Avaliação        | Resp. Correção         |
-|---------------------------|------------|-------------|------------------------|----------------------|-------------------|-------------------|------------------------|------------------------|
-| Documento de Requisitos	  | Revisão	   | 05/11/2024	 | Analista de Qualidade  | Conformidade	       |	                 | Atualização	     |  Gerente de Projeto    | Analista de Qualidade  |
-| Código de Software 	      | Teste	     | 12/11/2024	 | Engenheiro de Software |	Cobertura de Teste   |                   | Correção de Erros |	Líder de Equipe	      | Engenheiro de Software |
-| Diagrama de Arquitetura   | Revisão	   | 07/11/2024	 | Arquiteto de Sistemas  |	Aderência ao Projeto |                   | Ajuste de Design  |	Arquiteto de Sistemas	| Arquiteto de Sistemas  |
-| Interface do Usuário (UI) | Inspeção	                 | 15/11/2024	 | Designer de UX/UI      |	Funcionalidade       |                   | Correção de Layout|	Gerente de Projeto  	| Designer de UX/UI      |
-| Manual do Usuário	        | Testes de Legibilidade		 | 28/11/2024	 | Especialista em Qualidade	  |	Compreensão       |                   | Reescrever seções complexas|	Representante do Cliente 	|  Especialista em Qualidade      |
+| Artefato                  | Tipo Verif.                | Data        | Responsável                  | Métrica              | Data Correção| Ação Não Conform.  | Resp. Avaliação            | Resp. Correção            |
+|---------------------------|----------------------------|-------------|------------------------------|----------------------|--------------|--------------------|----------------------------|---------------------------|
+| Documento de Requisitos	  | Revisão	                   | 05/11/2024	 | Analista de Qualidade        | Conformidade	       |	            | Atualização	       |  Gerente de Projeto        | Analista de Qualidade     |
+| Código de Software 	      | Teste	                     | 12/11/2024	 | Engenheiro de Software       |	Cobertura de Teste   |              | Correção de Erros  |	Líder de Equipe	          | Engenheiro de Software    |
+| Diagrama de Arquitetura   | Revisão	                   | 07/11/2024	 | Arquiteto de Sistemas        |	Aderência ao Projeto |              | Ajuste de Design   |	Arquiteto de Sistemas	    | Arquiteto de Sistemas     |
+| Interface do Usuário (UI) | Inspeção	                 | 15/11/2024	 | Designer de UX/UI            |	Funcionalidade       |              | Correção de Layout |	Gerente de Projeto      	| Designer de UX/UI         |
+| Manual do Usuário	        | Testes de Integração  		 | 25/11/2024	 | Especialista em Qualidade	  |	Compreensão          |              | Seções complexas   |	Representante do Cliente 	|  Especialista em Qualidade|
+| Firmware        	        | Testes de Legibilidade		 | 28/11/2024	 | Desenvolvedor de Firmware	  |	Integração           |              | Incompatibilidade  |	Testador de Sistema     	|  Desenvolvedor de Firmware|
 
 ### Padrões e Normas Utilizadas
 
-| Nome           | Descrição                                                                              | 
-|----------------|----------------------------------------------------------------------------------------|
-| ISO 9001       | Padrão de Sistema de Gestão da Qualidade para assegurar qualidade no desenvolvimento.  |
-| IEEE 829       | Padrão para documentação de testes de software para garantir qualidade nos testes.     |
-| ISO/IEC 12207  | Padrão para processos de ciclo de vida de software.                                    |
-|                |                                                                                        |
-|                |                                                                                        |
+| Nome           | Descrição                                                                                          | 
+|----------------|----------------------------------------------------------------------------------------------------|
+| ISO 9001       | Padrão de Sistema de Gestão da Qualidade para assegurar qualidade no desenvolvimento.              |
+| IEEE 829       | Padrão para documentação de testes de software para garantir qualidade nos testes.                 |
+| ISO/IEC 12207  | Padrão para processos de ciclo de vida de software.                                                |
+| ISO 25010      | Padrões de qualidade de software que abordam requisitos de funcionalidade, usabilidade e segurança.|
+| Clean Code     | Padrões de desenvolvimento para melhorar a legibilidade e manutenção do código-fonte.              |
 
 ### Ambiente das Atividades de Qualidade
 
@@ -276,17 +277,19 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 | Ambiente de Desenvolvimento | Ambiente configurado com ferramentas de desenvolvimento de software.   |
 | Ambiente de Testes          | Plataforma dedicada para execução e validação de testes dos sistemas.  |
 | Ambiente de Integração      | Ambiente onde são realizadas atividades de integração e testes finais. |
-|                             |                                                                        |
+| Ambiente de Produção        | Sistema real em operação, utilizado após validações finais e aprovação.|
 
 ### Equipe de Qualidade
 
-| Nome                   | Responsabilidade                                  | 
-|------------------------|---------------------------------------------------|
-| Analista de Qualidade  | Revisão de documentos e inspeção de qualidade.    |
-| Engenheiro de Software | Teste e verificação de código.                    |
-| Arquiteto de Sistemas  | Avaliação e validação de arquitetura do sistema.  |
-| Designer de UX/UI      | Verificação de qualidade da interface do usuário. |
-|                        |                                                   |
+| Nome                      | Responsabilidade                                  | 
+|---------------------------|---------------------------------------------------|
+| Analista de Qualidade     | Revisão de documentos e inspeção de qualidade.    |
+| Engenheiro de Software    | Teste e verificação de código.                    |
+| Arquiteto de Sistemas     | Avaliação e validação de arquitetura do sistema.  |
+| Designer de UX/UI         | Verificação de qualidade da interface do usuário. |
+| Especialista em Qualidade | Avaliação de Documentação e Controle de Qualidade |
+| Desenvolvedor de Firmware | Desenvolvimento e Verificação de Firmware         |
+| Testador de Sistema       | Testador de Sistema e Qualidade                   |
 
 ### Metodologias de Qualidade Utilizadas
 
@@ -295,7 +298,9 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 | Scrum               | Metodologia ágil para planejamento e acompanhamento do desenvolvimento de software.             |
 | Teste de Unidade    | Técnica para garantir que cada unidade do software funcione conforme o esperado.                |
 | Teste de Integração | Técnica para validar a integração e a comunicação entre diferentes módulos.                     |
+| Teste de Usabilidade| Verificação da interface para garantir que seja intuitiva e fácil para os usuários finais.      |
 | Revisão por Pares   | Revisão dos artefatos de desenvolvimento por outros membros da equipe para assegurar qualidade. |
+| Análise de Feedback | Coleta e avaliação de feedback de usuários para identificar melhorias e não conformidades.      |
 
 ```diff
 + Tarefa 09:
