@@ -366,8 +366,6 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 |Manual de Usuário	                 | Usuários finais	                  | E-mail, Google Drive	  | Na conclusão do projeto	Equipe de Documentação
 |Relatório de Testes	               | Equipe de Qualidade	              | Reunião virtual, Google Drive	| Semanal	Equipe de Testes
 |Documentação de Procedimentos de Backup	| Equipe de TI	                | E-mail, Google Drive	  | Na conclusão do projeto	Administrador de Sistemas
-|----------------------------------------------------------------------------------------------------------------------------------------|
-
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
