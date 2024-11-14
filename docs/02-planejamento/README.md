@@ -322,7 +322,7 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Sensor de Peso Cotação](artefatos/aquisicao_produtos.docx)
+- [Sensor de Peso Cotação](aquisicao_produtos (1).docx_20241114_201548_0000.docx)
 
 
 ```diff
