@@ -363,9 +363,9 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 | Relatório de Progresso             | Equipe do projeto, stakeholders principais | E-mail, portal do projeto | Mensal | PMO (Project Management Office) |
 | Relatório de Aderência ao Processo | Equipe de controle de qualidade    | Reunião quinzenal       | Quinzenal   | Coordenador de qualidade |
 | Checklists de Inspeção             | Equipe de QA, gerente de projeto   | Portal do projeto       | Antes de cada revisão | Analista de QA |
-|Manual de Usuário	                 | Usuários finais	                  | E-mail, Google Drive	  | Na conclusão do projeto	Equipe de Documentação
-|Relatório de Testes	               | Equipe de Qualidade	              | Reunião virtual, Google Drive	| Semanal	Equipe de Testes
-|Documentação de Procedimentos de Backup	| Equipe de TI	                | E-mail, Google Drive	  | Na conclusão do projeto	Administrador de Sistemas
+|Manual de Usuário	                 | Usuários finais	                  | E-mail, Google Drive	  | Na conclusão do projeto	| Equipe de Documentação
+|Relatório de Testes	               | Equipe de Qualidade	              | Reunião virtual, Google Drive	| Semanal	| Equipe de Testes
+|Documentação de Procedimentos de Backup	| Equipe de TI	                | E-mail, Google Drive	  | Na conclusão do projeto	| Administrador de Sistemas
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
