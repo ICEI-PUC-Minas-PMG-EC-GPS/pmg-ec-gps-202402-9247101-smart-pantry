@@ -348,22 +348,22 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 
 ### Plano de Comunicação do Projeto
 
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+Claro, segue a tabela preenchida com as informações para o Plano de Comunicação:
+
+| Entregável                         | Público Alvo                       | Met. Comunicação       | Frequência  | Responsável          | 
+|------------------------------------|------------------------------------|------------------------|-------------|----------------------|
+| Ata de reunião                     | Equipe do projeto, gestores        | E-mail, reunião virtual | Semanal     | Gerente do projeto   |
+| Declaração de escopo               | Equipe de desenvolvimento, stakeholders principais | E-mail, portal do projeto | Uma vez, no início | Analista de negócios |
+| WBS                                | Equipe técnica, gestor de projetos | Portal do projeto      | Uma vez, após definição | Gerente do projeto   |
+| Dicionário da WBS                  | Equipe técnica, stakeholders       | Portal do projeto      | Uma vez, após a criação da WBS | Gerente do projeto |
+| Cronograma                         | Equipe do projeto, gestores, patrocinadores | Reunião presencial/virtual, e-mail | Mensal | Coordenador do cronograma |
+| Lista de Riscos                    | Equipe do projeto, gestor de riscos | Reunião quinzenal, portal do projeto | Quinzenal | Gestor de riscos |
+| Plano de qualidade                 | Equipe de desenvolvimento, gestores | E-mail, reunião virtual | Uma vez, revisão trimestral | Coordenador de qualidade |
+| Plano de projeto                   | Stakeholders principais, patrocinadores | E-mail, reunião de apresentação | Uma vez, no início | Gerente do projeto |
+| Relatório de Progresso             | Equipe do projeto, stakeholders principais | E-mail, portal do projeto | Mensal | PMO (Project Management Office) |
+| Relatório de Aderência ao Processo | Equipe de controle de qualidade    | Reunião quinzenal       | Quinzenal   | Coordenador de qualidade |
+| Checklists de Inspeção             | Equipe de QA, gerente de projeto   | Portal do projeto       | Antes de cada revisão | Analista de QA |
+
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
@@ -381,18 +381,21 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- **Ferramenta 01:** Microsoft Teams - Para comunicação e reuniões virtuais
+- **Ferramenta 02:** Trello/Jira - Para o acompanhamento de tarefas e gestão do projeto
+- **Ferramenta 03:** Google Drive - Para armazenamento e compartilhamento de documentos
+
 - Papéis:
-- - ...
-  - ...
-  - ...
+- **Gerente de Projeto:** Responsável pela comunicação geral e pela distribuição de relatórios e atas.
+- **Coordenador de Qualidade:** Responsável pelos relatórios de aderência e checklists de inspeção.
+- **Gestor de Riscos:** Gerencia e comunica a lista de riscos aos envolvidos.
+    
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- **Clareza:** As mensagens devem ser diretas e de fácil entendimento.
+- **Objetividade:** Informações devem ser transmitidas de forma precisa, sem redundâncias.
+- **Impessoalidade**: A comunicação deve focar no conteúdo, sem preferências pessoais.
+- **Imparcialidade:** A informação deve ser transmitida de maneira justa e equilibrada.
+- **Cordialidade:** Todos os envolvidos devem manter um tom respeitoso e colaborativo.
 
 ```diff
 + Tarefa 11:
