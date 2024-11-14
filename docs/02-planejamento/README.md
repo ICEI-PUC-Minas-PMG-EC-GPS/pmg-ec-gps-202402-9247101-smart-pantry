@@ -364,7 +364,6 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 | Relatório de Aderência ao Processo | Equipe de controle de qualidade    | Reunião quinzenal       | Quinzenal   | Coordenador de qualidade |
 | Checklists de Inspeção             | Equipe de QA, gerente de projeto   | Portal do projeto       | Antes de cada revisão | Analista de QA |
 
-
 > Legenda:
 > - Público: a quem se destina a comunicação.
 > - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
