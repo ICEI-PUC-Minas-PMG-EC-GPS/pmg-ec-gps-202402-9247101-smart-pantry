@@ -389,11 +389,16 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 - **Gestor de Riscos:** Gerencia e comunica a lista de riscos aos envolvidos.
     
 - Princípios gerais
-- **Clareza:** As mensagens devem ser diretas e de fácil entendimento. 
-- **Objetividade:** Informações devem ser transmitidas de forma precisa, sem redundâncias.
-- **Impessoalidade**: A comunicação deve focar no conteúdo, sem preferências pessoais.
-- **Imparcialidade:** A informação deve ser transmitida de maneira justa e equilibrada.
-- **Cordialidade:** Todos os envolvidos devem manter um tom respeitoso e colaborativo.
+- **Transparência:** As comunicações devem ser abertas e acessíveis, garantindo que todas as partes interessadas tenham as informações necessárias para acompanhar o progresso do projeto.
+- **Pontualidade:** As informações devem ser comunicadas de maneira oportuna, evitando atrasos que possam impactar o andamento do projeto.
+- **Consistência:** O formato e o conteúdo das comunicações devem seguir um padrão definido para facilitar a compreensão e a comparação entre relatórios ou atualizações.
+- **Interatividade:** O plano deve permitir e incentivar a participação e feedback dos membros da equipe e das partes interessadas, promovendo um diálogo aberto.
+- **Confidencialidade:** As comunicações devem proteger informações sensíveis e respeitar a privacidade dos dados do projeto e dos envolvidos.
+- **Adaptabilidade:** A comunicação deve ser flexível o suficiente para se ajustar a diferentes situações e necessidades que possam surgir durante o projeto.
+- **Acessibilidade:** As informações devem estar disponíveis em diferentes formatos e meios para que todos possam acessá-las, levando em conta eventuais necessidades especiais dos membros da equipe.
+- **Relevância:** Somente informações pertinentes devem ser comunicadas, evitando sobrecarregar os destinatários com dados desnecessários.
+- **Foco em Soluções:** A comunicação deve priorizar abordagens voltadas para a resolução de problemas e a identificação de alternativas viáveis.
+- **Documentação:** Todas as comunicações importantes devem ser registradas e arquivadas para referência futura e auditorias.
 
 ```diff
 + Tarefa 11:
