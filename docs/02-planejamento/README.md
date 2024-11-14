@@ -418,7 +418,7 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 - Controle: As versões são gerenciadas por meio do recurso de histórico de versões do Google Drive, permitindo reverter e verificar alterações anteriores.
 - Responsabilidade: O responsável por cada documento deve garantir que apenas a versão final revisada seja disponibilizada na pasta de acesso geral, enquanto as versões de trabalho permanecem em pastas restritas.
 
-**Processo de Controle de Versão**
+**Processo de Controle de Versão:**
 
 - Solicitação de Mudança: Solicitações de mudança são registradas no Trello/Jira e incluem detalhes como justificativa, descrição da mudança e impacto esperado.
 - Avaliação e Aprovação: O Gerente de Configuração e o Gerente de Projetos revisam a solicitação e avaliam o impacto. Mudanças aprovadas são registradas com um novo cartão/tarefa e priorizadas.
@@ -426,7 +426,7 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 - Revisão e Testes: O documento ou artefato atualizado é revisado pelo responsável da qualidade, e feedback é coletado em reuniões via Microsoft Teams.
 - Distribuição: A versão final é movida para a pasta de entrega no Google Drive e uma notificação é enviada pelo Microsoft Teams para toda a equipe.
 
-**Controle de Responsabilidades**
+**Controle de Responsabilidades:**
 - Gerente de Configuração: Responsável por supervisionar o processo de controle de versão e garantir que todos os procedimentos sejam seguidos.
 - Gerente de Projetos: Aprova mudanças significativas e gerencia os impactos gerais no cronograma e orçamento.
 - Equipe de Desenvolvimento/Qualidade: Implementa as mudanças e verifica a conformidade com os critérios estabelecidos.
