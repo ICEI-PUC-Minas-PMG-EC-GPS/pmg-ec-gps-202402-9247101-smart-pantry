@@ -376,7 +376,7 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 > - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
 > - Papéis: responsáveis pelas correspondentes no projeto
 > - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
+> - Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 ### Ferramentas utilizadas:
 - **Ferramenta 01:** Microsoft Teams - Para comunicação e reuniões virtuais
@@ -399,6 +399,38 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 - **Relevância:** Somente informações pertinentes devem ser comunicadas, evitando sobrecarregar os destinatários com dados desnecessários.
 - **Foco em Soluções:** A comunicação deve priorizar abordagens voltadas para a resolução de problemas e a identificação de alternativas viáveis.
 - **Documentação:** Todas as comunicações importantes devem ser registradas e arquivadas para referência futura e auditorias.
+
+### Plano de Gerência de Configuração
+**Controle de Versões e Ferramentas Utilizadas:**
+
+1. Microsoft Teams
+- Uso: Comunicação e reuniões virtuais para discutir mudanças, alinhamentos de versão e revisões de configuração.
+- Controle: Notificação de atualizações e discussões em tempo real sobre alterações nos artefatos.
+- Responsabilidade: Todos os membros da equipe devem participar das reuniões de atualização e manter a comunicação clara sobre as mudanças.
+
+2. Trello/Jira
+- Uso: Acompanhamento de tarefas, solicitações de mudança e monitoramento do progresso das atividades relacionadas à gestão de configuração.
+- Controle: O Gerente de Configuração cria e atualiza cartões/tarefas para mudanças aprovadas, rastreando seu status desde a solicitação até a implementação e revisão.
+-Responsabilidade: O Gerente de Configuração é responsável por monitorar e atualizar as tarefas de configuração, enquanto os desenvolvedores e outros membros da equipe atualizam o status conforme completam as atividades.
+
+3. Google Drive
+- Uso: Armazenamento e compartilhamento centralizado de documentos e artefatos, garantindo acesso à versão mais atualizada dos arquivos.
+- Controle: As versões são gerenciadas por meio do recurso de histórico de versões do Google Drive, permitindo reverter e verificar alterações anteriores.
+- Responsabilidade: O responsável por cada documento deve garantir que apenas a versão final revisada seja disponibilizada na pasta de acesso geral, enquanto as versões de trabalho permanecem em pastas restritas.
+
+**Processo de Controle de Versão**
+
+- Solicitação de Mudança: Solicitações de mudança são registradas no Trello/Jira e incluem detalhes como justificativa, descrição da mudança e impacto esperado.
+- Avaliação e Aprovação: O Gerente de Configuração e o Gerente de Projetos revisam a solicitação e avaliam o impacto. Mudanças aprovadas são registradas com um novo cartão/tarefa e priorizadas.
+- Implementação da Mudança: A equipe realiza as mudanças conforme as instruções e registra as atualizações no Google Drive.
+- Revisão e Testes: O documento ou artefato atualizado é revisado pelo responsável da qualidade, e feedback é coletado em reuniões via Microsoft Teams.
+- Distribuição: A versão final é movida para a pasta de entrega no Google Drive e uma notificação é enviada pelo Microsoft Teams para toda a equipe.
+
+**Controle de Responsabilidades**
+- Gerente de Configuração: Responsável por supervisionar o processo de controle de versão e garantir que todos os procedimentos sejam seguidos.
+- Gerente de Projetos: Aprova mudanças significativas e gerencia os impactos gerais no cronograma e orçamento.
+- Equipe de Desenvolvimento/Qualidade: Implementa as mudanças e verifica a conformidade com os critérios estabelecidos.
+- Equipe de Documentação: Atualiza os documentos necessários no Google Drive e notifica a equipe sobre as mudanças.
 
 ```diff
 + Tarefa 11:
