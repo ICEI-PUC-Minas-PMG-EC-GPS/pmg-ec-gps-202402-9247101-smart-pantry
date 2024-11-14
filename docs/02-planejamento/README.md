@@ -378,17 +378,17 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 > - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
-> - Ferramentas utilizadas:
+### Ferramentas utilizadas:
 - **Ferramenta 01:** Microsoft Teams - Para comunicação e reuniões virtuais
 - **Ferramenta 02:** Trello/Jira - Para o acompanhamento de tarefas e gestão do projeto
 - **Ferramenta 03:** Google Drive - Para armazenamento e compartilhamento de documentos
 
-> - Papéis:
+### Papéis:
 - **Gerente de Projeto:** Responsável pela comunicação geral e pela distribuição de relatórios e atas.
 - **Coordenador de Qualidade:** Responsável pelos relatórios de aderência e checklists de inspeção.
 - **Gestor de Riscos:** Gerencia e comunica a lista de riscos aos envolvidos.
     
-> - Princípios gerais
+### Princípios gerais
 - **Transparência:** As comunicações devem ser abertas e acessíveis, garantindo que todas as partes interessadas tenham as informações necessárias para acompanhar o progresso do projeto.
 - **Pontualidade:** As informações devem ser comunicadas de maneira oportuna, evitando atrasos que possam impactar o andamento do projeto.
 - **Consistência:** O formato e o conteúdo das comunicações devem seguir um padrão definido para facilitar a compreensão e a comparação entre relatórios ou atualizações.
