@@ -376,7 +376,6 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 > - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
 > - Papéis: responsáveis pelas correspondentes no projeto
 > - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
@@ -390,7 +389,7 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 - **Gestor de Riscos:** Gerencia e comunica a lista de riscos aos envolvidos.
     
 - Princípios gerais
-- **Clareza:** As mensagens devem ser diretas e de fácil entendimento.
+- **Clareza:** As mensagens devem ser diretas e de fácil entendimento. 
 - **Objetividade:** Informações devem ser transmitidas de forma precisa, sem redundâncias.
 - **Impessoalidade**: A comunicação deve focar no conteúdo, sem preferências pessoais.
 - **Imparcialidade:** A informação deve ser transmitida de maneira justa e equilibrada.
