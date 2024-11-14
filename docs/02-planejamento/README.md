@@ -411,7 +411,7 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 2. Trello/Jira
 - Uso: Acompanhamento de tarefas, solicitações de mudança e monitoramento do progresso das atividades relacionadas à gestão de configuração.
 - Controle: O Gerente de Configuração cria e atualiza cartões/tarefas para mudanças aprovadas, rastreando seu status desde a solicitação até a implementação e revisão.
--Responsabilidade: O Gerente de Configuração é responsável por monitorar e atualizar as tarefas de configuração, enquanto os desenvolvedores e outros membros da equipe atualizam o status conforme completam as atividades.
+- Responsabilidade: O Gerente de Configuração é responsável por monitorar e atualizar as tarefas de configuração, enquanto os desenvolvedores e outros membros da equipe atualizam o status conforme completam as atividades.
 
 3. Google Drive
 - Uso: Armazenamento e compartilhamento centralizado de documentos e artefatos, garantindo acesso à versão mais atualizada dos arquivos.
