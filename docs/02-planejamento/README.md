@@ -379,26 +379,26 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
-- **Ferramenta 01:** Microsoft Teams - Para comunicação e reuniões virtuais
-- **Ferramenta 02:** Trello/Jira - Para o acompanhamento de tarefas e gestão do projeto
-- **Ferramenta 03:** Google Drive - Para armazenamento e compartilhamento de documentos
+**Ferramenta 01:** Microsoft Teams - Para comunicação e reuniões virtuais
+**Ferramenta 02:** Trello/Jira - Para o acompanhamento de tarefas e gestão do projeto
+**Ferramenta 03:** Google Drive - Para armazenamento e compartilhamento de documentos
 
 - Papéis:
-- **Gerente de Projeto:** Responsável pela comunicação geral e pela distribuição de relatórios e atas.
-- **Coordenador de Qualidade:** Responsável pelos relatórios de aderência e checklists de inspeção.
-- **Gestor de Riscos:** Gerencia e comunica a lista de riscos aos envolvidos.
+**Gerente de Projeto:** Responsável pela comunicação geral e pela distribuição de relatórios e atas.
+**Coordenador de Qualidade:** Responsável pelos relatórios de aderência e checklists de inspeção.
+**Gestor de Riscos:** Gerencia e comunica a lista de riscos aos envolvidos.
     
 - Princípios gerais
-- **Transparência:** As comunicações devem ser abertas e acessíveis, garantindo que todas as partes interessadas tenham as informações necessárias para acompanhar o progresso do projeto.
-- **Pontualidade:** As informações devem ser comunicadas de maneira oportuna, evitando atrasos que possam impactar o andamento do projeto.
-- **Consistência:** O formato e o conteúdo das comunicações devem seguir um padrão definido para facilitar a compreensão e a comparação entre relatórios ou atualizações.
-- **Interatividade:** O plano deve permitir e incentivar a participação e feedback dos membros da equipe e das partes interessadas, promovendo um diálogo aberto.
-- **Confidencialidade:** As comunicações devem proteger informações sensíveis e respeitar a privacidade dos dados do projeto e dos envolvidos.
-- **Adaptabilidade:** A comunicação deve ser flexível o suficiente para se ajustar a diferentes situações e necessidades que possam surgir durante o projeto.
-- **Acessibilidade:** As informações devem estar disponíveis em diferentes formatos e meios para que todos possam acessá-las, levando em conta eventuais necessidades especiais dos membros da equipe.
-- **Relevância:** Somente informações pertinentes devem ser comunicadas, evitando sobrecarregar os destinatários com dados desnecessários.
-- **Foco em Soluções:** A comunicação deve priorizar abordagens voltadas para a resolução de problemas e a identificação de alternativas viáveis.
-- **Documentação:** Todas as comunicações importantes devem ser registradas e arquivadas para referência futura e auditorias.
+**Transparência:** As comunicações devem ser abertas e acessíveis, garantindo que todas as partes interessadas tenham as informações necessárias para acompanhar o progresso do projeto.
+**Pontualidade:** As informações devem ser comunicadas de maneira oportuna, evitando atrasos que possam impactar o andamento do projeto.
+**Consistência:** O formato e o conteúdo das comunicações devem seguir um padrão definido para facilitar a compreensão e a comparação entre relatórios ou atualizações.
+**Interatividade:** O plano deve permitir e incentivar a participação e feedback dos membros da equipe e das partes interessadas, promovendo um diálogo aberto.
+**Confidencialidade:** As comunicações devem proteger informações sensíveis e respeitar a privacidade dos dados do projeto e dos envolvidos.
+**Adaptabilidade:** A comunicação deve ser flexível o suficiente para se ajustar a diferentes situações e necessidades que possam surgir durante o projeto.
+**Acessibilidade:** As informações devem estar disponíveis em diferentes formatos e meios para que todos possam acessá-las, levando em conta eventuais necessidades especiais dos membros da equipe.
+**Relevância:** Somente informações pertinentes devem ser comunicadas, evitando sobrecarregar os destinatários com dados desnecessários.
+**Foco em Soluções:** A comunicação deve priorizar abordagens voltadas para a resolução de problemas e a identificação de alternativas viáveis.
+**Documentação:** Todas as comunicações importantes devem ser registradas e arquivadas para referência futura e auditorias.
 
 ```diff
 + Tarefa 11:
