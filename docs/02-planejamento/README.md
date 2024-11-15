@@ -383,9 +383,9 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 > - Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 ### Ferramentas utilizadas:
-- **Ferramenta 01:** Microsoft Teams - Para comunicação e reuniões virtuais
-- **Ferramenta 02:** Trello/Jira - Para o acompanhamento de tarefas e gestão do projeto
-- **Ferramenta 03:** Google Drive - Para armazenamento e compartilhamento de documentos
+- **Ferramenta 01:** [Microsoft Teams](https://teams.microsoft.com) - Para comunicação e reuniões virtuais
+- **Ferramenta 02:** [Trello/Jira](https://trello.com/) - Para o acompanhamento de tarefas e gestão do projeto
+- **Ferramenta 03:** [Google Drive](https://drive.google.com) - Para armazenamento e compartilhamento de documentos
 
 ### Papéis:
 - **Gerente de Projeto:** Responsável pela comunicação geral e pela distribuição de relatórios e atas.
