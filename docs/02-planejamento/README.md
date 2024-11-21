@@ -463,10 +463,6 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 > Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-Segue a tabela solicitada com base no projeto **Smart Pantry (Dispensa Inteligente):**
-
 | Categoria do Risco        | Descrição do Risco                                     | Impacto | Risco  | Medidas de Prevenção                       | Medidas de Contingência                  |
 |---------------------------|-------------------------------------------------------|---------|--------|-------------------------------------------|------------------------------------------|
 | Cliente                   | Usuário final não adere ao uso do sistema             | Alto    | Alto   | Realizar workshops e treinamentos para apresentar o sistema e seus benefícios. | Realizar campanhas promocionais e suporte técnico dedicado para melhorar a aceitação. |
