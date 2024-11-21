@@ -465,16 +465,28 @@ Claro, segue a tabela preenchida com as informações para o Plano de Comunicaç
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+Segue a tabela solicitada com base no projeto **Smart Pantry (Dispensa Inteligente):**
+
+| Categoria do Risco        | Descrição do Risco                                     | Impacto | Risco  | Medidas de Prevenção                       | Medidas de Contingência                  |
+|---------------------------|-------------------------------------------------------|---------|--------|-------------------------------------------|------------------------------------------|
+| Cliente                   | Usuário final não adere ao uso do sistema             | Alto    | Alto   | Realizar workshops e treinamentos para apresentar o sistema e seus benefícios. | Realizar campanhas promocionais e suporte técnico dedicado para melhorar a aceitação. |
+| Cronograma                | Atraso na entrega de componentes eletrônicos          | Alto    | Alto   | Planejar compras com fornecedores confiáveis e manter estoque estratégico.    | Identificar fornecedores alternativos ou ajustar o cronograma de entrega.           |
+| Orçamento                 | Custos com hardware superam o previsto                | Médio   | Médio  | Realizar cotações detalhadas e criar uma reserva financeira no orçamento.      | Reavaliar as especificações do hardware para reduzir custos sem comprometer a qualidade. |
+| Aquisição de Produtos     | Problemas na integração entre sensores e software     | Alto    | Alto   | Testar a integração em ambiente controlado antes da implementação completa.    | Disponibilizar suporte técnico avançado para solucionar problemas rapidamente.       |
+| Tecnologia                | Falhas de comunicação entre dispositivos IoT          | Médio   | Médio  | Usar protocolos de comunicação confiáveis e realizar testes de desempenho.     | Implementar redundâncias na comunicação e reiniciar o sistema para normalização.    |
+| Segurança de Dados        | Vazamento de dados sensíveis dos usuários             | Alto    | Alto   | Implementar criptografia e controle de acesso rigoroso no sistema.             | Notificar os usuários, corrigir a vulnerabilidade e fornecer soluções de proteção.  |
+| Manutenção                | Dificuldade em atualizar ou reparar o sistema         | Médio   | Médio  | Garantir documentação clara e estrutura modular no desenvolvimento.            | Contratar uma equipe especializada para lidar com manutenção emergencial.          |
+| Usabilidade               | Interface do usuário é confusa ou pouco intuitiva     | Médio   | Médio  | Realizar testes de usabilidade com usuários finais durante o desenvolvimento.  | Disponibilizar tutoriais e suporte técnico para ajudar na adaptação ao sistema.     |
+| Energia                   | Consumo de energia maior do que o esperado            | Baixo   | Médio  | Usar componentes de baixo consumo e avaliar eficiência energética.             | Ajustar o sistema para modo de operação com menor consumo ou adicionar fontes alternativas de energia. |
+| Mercado                   | Lançamento de produto similar por concorrentes        | Médio   | Médio  | Destacar diferenciais do produto e investir em marketing.                      | Ajustar preço ou adicionar novos recursos para se manter competitivo.        |
+| Fornecedores              | Atraso ou indisponibilidade de componentes críticos   | Alto    | Alto   | Firmar contratos com cláusulas de prazo e manter fornecedores alternativos.    | Negociar prazos de entrega ou buscar soluções emergenciais no mercado local.       |
+| Documentação              | Falta de documentação clara para implementação         | Médio   | Médio  | Criar documentação detalhada desde o início e revisá-la periodicamente.        | Disponibilizar sessões de esclarecimento com a equipe de desenvolvimento.          |
+| Compatibilidade           | Incompatibilidade com sistemas existentes dos usuários | Médio   | Médio  | Mapear os sistemas mais comuns e realizar testes de compatibilidade.           | Desenvolver módulos adaptadores ou realizar atualizações para integração.          |
+| Treinamento               | Funcionários não conseguem utilizar o sistema adequadamente | Alto    | Alto   | Desenvolver treinamentos e manuais de uso intuitivos.                          | Disponibilizar suporte técnico especializado para resolver dúvidas rapidamente.     |
+| Clima Organizacional      | Resistência interna ao uso da nova tecnologia          | Médio   | Médio  | Envolver os stakeholders desde o início e demonstrar os benefícios do sistema. | Realizar encontros de engajamento e ouvir sugestões para adaptações.               |
+| Hardware                  | Defeitos em componentes durante o uso                  | Alto    | Alto   | Testar todos os componentes antes da instalação final.                         | Substituir imediatamente os componentes defeituosos e acionar a garantia.          |
+| Infraestrutura            | Rede local não suporta a demanda do sistema IoT        | Médio   | Médio  | Realizar um levantamento prévio da infraestrutura e propor melhorias.          | Contratar serviços externos para adequação da infraestrutura de rede.              |
+| Regulamentação            | Produto não atende a normativas de segurança e qualidade | Alto    | Alto   | Validar o produto de acordo com as regulamentações locais antes do lançamento. | Realizar adequações emergenciais e submeter o produto à certificação novamente.     |
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
