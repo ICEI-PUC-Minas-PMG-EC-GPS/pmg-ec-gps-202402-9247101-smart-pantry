@@ -322,7 +322,7 @@ O projeto seguirá a metodologia Scrum, com reuniões regulares para avaliação
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Sensor de Peso - Cotação](docs/02-planejamento/artefatos/SensordePesoCotacao.pdf)
+- [Sensor de Peso - Cotação](artefatos/SensordePesoCotacao.pdf)
 
 
 
