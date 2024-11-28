@@ -22,38 +22,51 @@
 
 # Encerramento do Projeto
 
-O encerramento do projeto Smart Pantry marca a conclusão de um esforço colaborativo e inovador para a criação de um sistema inteligente e automatizado de gestão de estoques alimentícios. O sistema foi projetado para atender aos objetivos gerais e específicos definidos no início do projeto, com foco na redução do desperdício de alimentos, otimização do inventário e promoção de práticas mais sustentáveis.
+Termo de Encerramento do Projeto: Smart Pantry
+Componentes da Equipe: Chrystian Henrique Fonseca de Souza, Igor Gomes Silva Rattes e Samara Hellen Ferreira Chaves
 
-- Objetivos Alcançados
+1) Objetivo do Projeto
+  
+Objetivo Geral: Desenvolver um sistema integrado e inteligente para a gestão automatizada de estoques alimentícios em estabelecimentos comerciais, visando melhorar a eficiência operacional, reduzir o desperdício de alimentos e otimizar o processo de reposição de produtos.
 
-1) Redução de Desperdício de Alimentos: Implementação de sensores de peso e tecnologia RFID permitiu monitoramento em tempo real e alertas sobre itens próximos ao vencimento, impactando diretamente na redução de perdas.
-2) Melhoria na Gestão de Estoques: A interface móvel desenvolvida proporcionou aos usuários uma visão clara e organizada dos itens estocados, facilitando o planejamento de compras e evitando excessos ou faltas.
-3) Sustentabilidade: Ao reduzir o desperdício e otimizar recursos, o projeto contribuiu para práticas empresariais alinhadas com os objetivos de sustentabilidade.
-4) Satisfação do Cliente: Feedbacks iniciais indicam que o sistema superou as expectativas dos gestores de estoques, fornecendo uma solução prática, confiável e inovadora.
+2) Resumo do Projeto
 
-- Revisão do Escopo e Entregas
+O projeto consistiu em planejar a criação de uma solução tecnológica robusta, com funcionalidades voltadas ao monitoramento em tempo real dos estoques, geração de alertas sobre itens próximos ao vencimento e automatização de listas de compras. As principais atividades realizadas incluíram:
 
-O projeto foi concluído conforme o escopo planejado, incluindo:
+Elaboração do escopo detalhado e definição de requisitos funcionais e não funcionais, planejamento de custos e orçamentos, definição de cargos, funções e responsabilidades, etc.
+Criação de um cronograma detalhado utilizando ferramentas como Trello, baseando-se nas principais atividades planejadas com base nos objetivos, marcos e requisitos.
+Planejamento de integração tecnológica com sensores e interfaces móveis, além de desenvolvimento de interface de usuário intuitiva e limpa.
+Identificação e análise de riscos para minimizar impactos durante a execução hipotética do projeto.
+Desenvolvimento de um plano de comunicação eficiente, baseado em ferramentas como Microsoft Teams e Google Drive.
 
-1) Desenvolvimento de hardware com sensores e RFID para monitoramento.
-2) Integração com um aplicativo móvel funcional, permitindo o gerenciamento remoto.
-3) Automação de notificações e geração de listas de compras baseadas no inventário.
-4) Compatibilidade com assistentes virtuais para comandos por voz e níveis diferenciados de acesso para usuários.
+3) Artefatos entregues
 
-- Critérios de Sucesso
+Os principais artefatos entregues no projeto Smart Pantry foram desenvolvidos com base no planejamento e executados conforme o escopo e os objetivos definidos. Os artefatos (Hipotétios) "entregues" incluem:
 
-O sucesso do projeto foi avaliado com base nos seguintes critérios:
+Sistema Integrado de Gestão de Estoques: Um software funcional implementado, que utiliza sensores de peso e tecnologia RFID para monitoramento em tempo real do inventário de alimentos. O sistema foi testado e validado em ambientes simulados, comprovando sua eficácia na identificação de produtos próximos à validade e no cálculo de quantidades críticas.
 
-1) Entrega no Prazo e Orçamento: Todas as etapas foram concluídas dentro do cronograma e do orçamento estimados, sem desvios significativos.
-2) Qualidade do Produto: O sistema atende às especificações técnicas, operando com precisão e confiabilidade em todos os módulos implementados.
-3) Impacto Medido: Relatórios preliminares indicam uma redução média de 25% no desperdício de alimentos nos estabelecimentos que adotaram o Smart Pantry.
-4) Gestão de Riscos Efetiva: Todos os riscos identificados foram gerenciados e mitigados adequadamente, garantindo o andamento contínuo do projeto.
+Aplicativo Mobile Intuitivo: O aplicativo desenvolvido permitiu aos usuários visualizar o inventário atualizado, receber alertas sobre itens críticos e próximos ao vencimento, e gerar listas automáticas de compras. Além disso, o app foi integrado a assistentes virtuais para comandos por voz, facilitando o acesso rápido às informações.
 
-- Formalização do Encerramento
+Infraestrutura Tecnológica Implementada: Sensores de peso instalados nas prateleiras e dispositivos RFID para leitura automática de etiquetas dos produtos. A integração entre hardware e software foi concluída com sucesso, garantindo precisão no monitoramento e atualização do estoque.
 
-Aceitação Formal do Cliente: Todas as entregas foram revisadas em conjunto com o cliente, que aprovou o produto final e confirmou sua conformidade com as expectativas e requisitos estabelecidos.
-Transferência de Ativos e Responsabilidades: A equipe transferiu formalmente o controle do sistema para o cliente, incluindo manuais de uso, documentação técnica, códigos-fonte e credenciais de acesso às ferramentas.
-Liberação de Recursos: Todos os recursos alocados ao projeto, incluindo equipe e equipamentos, foram liberados para uso em novas iniciativas.
+Relatórios Analíticos Automatizados: O sistema gerou relatórios detalhados sobre o desempenho do estoque, incluindo desperdícios evitados, previsões de reposição e análises de consumo. Os relatórios foram configurados para envio automático, atendendo às necessidades de gestores e colaboradores.
+
+Documentação Técnica e de Suporte: Foi desenvolvida uma documentação abrangente, incluindo um guia do usuário, manuais técnicos para manutenção do sistema, e um repositório online com materiais de suporte para consulta rápida.
+
+Feedback do Cliente: Após a implantação, foram realizadas coletas de feedback com os usuários finais, resultando em ajustes e melhorias no sistema. A satisfação dos clientes superou as expectativas, com elogios à funcionalidade e eficiência da solução.
+
+4) Conslusões
+
+O projeto Smart Pantry demonstrou como o uso estratégico de tecnologias emergentes pode resolver problemas complexos de gestão de estoques em estabelecimentos alimentícios. Apesar de o trabalho estar limitado à fase de planejamento, as atividades realizadas forneceram uma base sólida para a futura execução do sistema. Os objetivos estabelecidos foram amplamente atendidos, com o desenvolvimento de uma solução hipotética que seria viável técnica e economicamente. 
+
+Todas as entregas foram revisadas em conjunto com o cliente, que aprovou o produto final e confirmou sua conformidade com as expectativas e requisitos estabelecidos; A equipe transferiu formalmente o controle do sistema para o cliente, incluindo manuais de uso, documentação técnica, códigos-fonte e credenciais de acesso às ferramentas; e todos os recursos alocados ao projeto, incluindo equipe e equipamentos, foram liberados para uso em novas iniciativas.
+
+Principais Contribuições:
+1) Planejamento detalhado de uma solução inovadora para redução de desperdícios alimentares e otimização de recursos.
+2) Integração de conceitos de automação, definição de custos e sustentabilidade no contexto da gestão de estoques.
+3) Trabalho em equipe para construir com criatividade e assertividade uma solução inovadora para um problema possivelmente comum em instituições alimentícias.
+4) Realização de diversas pesquisas sobre tecnologias, englobando softwares (Frontend e backend), hardwares e técnicas de integração para conseguir atingir os objetivos propostos.
+5) Aperfeiçoamento de habilidades técnicas e de gestão, com foco no desenvolvimento de soluções práticas para problemas reais enfrentados por estabelecimentos alimentícios
 
 > O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
 > Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
@@ -61,7 +74,16 @@ Liberação de Recursos: Todos os recursos alocados ao projeto, incluindo equipe
 
 # Lições Aprendidas 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Algumas das lições aprendidas com a execução do trabalho foram:
+
+1) Definição de Escopo: A importância de alinhar as expectativas das partes interessadas desde o início para evitar revisões contínuas, além de planejar diversas atividades com base nos objetivos, marcos e requisitos previamente definidos.
+2) Planejamento de Riscos: Como identificar riscos específicos no início do projeto ajuda a evitar problemas críticos durante a execução.
+3) Uso de Ferramentas de Gestão: Aprender a utilizar ferramentas como Trello e Microsoft Teams foram essenciais para organizar e documentar o trabalho de forma eficiente.
+4) Comunicação Efetiva: A troca constante de informações com a equipe permitiu ajustes rápidos e a melhoria contínua dos artefatos planejados, além de desenolver bastante o trabalho em equipe.
+5) Interdisciplinaridade: Trabalhar em um projeto que envolve áreas distintas, como tecnologia, sustentabilidade e gestão, foi enriquecedor para a equipe, destacando a necessidade de abordagens integradas.
+6) Gerenciamento do Tempo: A definição clara de prioridades e o uso de cronogramas detalhados ajudaram a equipe a cumprir prazos sem comprometer a qualidade das entregas. Isso reforçou a necessidade de planejamento temporal cuidadoso em projetos futuros.
+7) Flexibilidade no Planejamento: Durante a execução, imprevistos exigiram adaptações no plano inicial. Aprender a ser flexível, ajustando atividades sem perder de vista os objetivos principais, foi uma habilidade fundamental adquirida pela equipe.
+8) Valorização da Documentação: Manter uma documentação detalhada desde o início do projeto provou ser indispensável para o alinhamento interno e para futuras manutenções do sistema. Isso reforçou a importância de registrar todas as etapas do desenvolvimento de maneira clara e acessível.
 
 > A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
 > Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
