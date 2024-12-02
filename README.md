@@ -30,7 +30,7 @@ Fases do Gerenciamento do Projeto:
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho](images/smartPantry.png)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
 ## Informações Adicionais
 
