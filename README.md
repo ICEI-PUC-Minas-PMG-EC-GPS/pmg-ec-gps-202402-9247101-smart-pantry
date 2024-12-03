@@ -27,14 +27,5 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
 [![Imagem do Trabalho](images/smartPantry.png)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
 
-## Informações Adicionais
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
