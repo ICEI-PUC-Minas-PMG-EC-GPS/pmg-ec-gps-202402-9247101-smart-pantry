@@ -1,11 +1,4 @@
-# Iniciação
-
-> A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
-> Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
-> É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
-> Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
-> Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
-> O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
+# *Iniciação*
 
 # Estrutura do Documento
 
@@ -341,17 +334,7 @@ Atua como a "voz do cliente" no projeto, garantindo que o sistema final atenda �
 * Leonardo Santos – Consultor de Sustentabilidade
 Responsável por garantir que o projeto contribua para a sustentabilidade do negócio, com foco em práticas que previnam desperdícios e promovam uma gestão consciente de recursos. Responsável por avaliar se o sistema atende às metas de sustentabilidade estabelecidas.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
-
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
 | Ambiente              | Plataforma         | Link de Acesso                                                        | Justificativa |
 |-----------------------|--------------------|-----------------------------------------------------------------------|---------------|
