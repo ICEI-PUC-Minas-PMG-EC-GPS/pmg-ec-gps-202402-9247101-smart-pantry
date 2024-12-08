@@ -27,5 +27,5 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-[![Imagem do Trabalho](images/smartPantry.png)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho](images/smartPantry.png)](https://youtu.be/a8gDC24BdBc?si=rDKkdpjVfqbA8j-y)
 
